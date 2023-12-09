@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hire Me</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            background-color: #121212;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+            flex-grow: 1;
+        }
+
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        input[type="number"],
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        input[type="submit"] {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+
+        address a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+
+        prefers-color-scheme: dark {
+            body {
+                background-color: #000;
+            }
+
+            header {
+                background-color: #222;
+            }
+
+            input[type="text"],
+            input[type="email"],
+            input[type="tel"],
+            input[type="number"],
+            textarea {
+                background-color: #222;
+                color: #fff;
+                border: 1px solid #555;
+            }
+
+            input[type="submit"] {
+                background-color: #007BFF;
+            }
+
+            footer {
+                background-color: #222;
+            }
+
+            address a {
+                color: #fff;
+            }
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Hire Me</h1>
+</header>
+<section>
+    <form action="confirmation.html" method="post">
+        <label for="name">Company's Name:</label>
+        <input type="text" id="name" name="name" placeholder="Company's Name:" required><br><br>
+
+        <label for="email">Contacting Email:</label>
+        <input type="email" id="email" name="email" placeholder="Your Email" required><br><br>
+
+        <label for="phone">Contacting Phone:</label>
+        <input type="tel" id="phone" name="phone" placeholder="Your Phone Number" required><br><br>
+
+        <label for="service">Service Interested In:</label>
+        <input type="text" id="service" name="service" list="services" autocomplete="off" required>
+        <datalist id="services">
+            <option value="Web Development">
+            <option value="Graphic Design">
+            <option value="Content Writing">
+            <option value="Digital Marketing">
+            <option value="Consulting">
+        </datalist><br><br>
+
+        <label for="budget">Budget:</label>
+        <input type="number" id="budget" name="budget" placeholder="Your offered salary" required><br><br>
+
+        <label for="message">More details about your offered job</label><br>
+        <textarea id="message" name="message" rows="4" placeholder="Tell me more about the details of the job" required></textarea><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</section>
+<footer>
+    <address>
+        Contact: <a href="mailto faleh@email.com">faleh@email.com</a>
+    </address>
+    <p>&copy; 2023 hireMe. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
+
