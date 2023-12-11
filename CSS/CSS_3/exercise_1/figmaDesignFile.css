@@ -1,0 +1,949 @@
+/* The complete original file that contains every detail from Figma */
+
+/* Main page design content */
+
+/* Home Page */
+
+<div class="BlogLandingPage" style="width: 1440px; height: 3100px; position: relative; background: #0F172A">
+  <div class="Card2" style="width: 1440px; height: 900px; left: 0px; top: 1868px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Card" style="width: 1440px; flex-direction: column; justify-content: center; align-items: center; gap: 20px; display: flex">
+      <div class="Card" style="width: 1440px; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+        <div class="CardElement" style="width: 369px; height: 518px; position: relative; background: #1E293B; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.10); border-radius: 20px; overflow: hidden">
+          <div class="LoremIpsumDolor" style="width: 209.10px; height: 39.71px; left: 79.64px; top: 315.55px; position: absolute; text-align: center; color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+          <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 341.32px; height: 88.06px; left: 13.53px; top: 358.71px; position: absolute; text-align: center"><span style="color: #9CA3AF; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 24, 2022 - 5 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+          <img class="NotificationsOutline1" style="width: 369px; height: 292.81px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/369x293" />
+        </div>
+        <div class="Group4" style="width: 369px; height: 518px; position: relative">
+          <div class="CardElement" style="width: 369px; height: 518px; padding-top: 315.55px; padding-bottom: 71.23px; padding-left: 13.53px; padding-right: 14.15px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 3.45px; display: inline-flex">
+            <div class="LoremIpsumDolor" style="width: 209.10px; height: 39.71px; text-align: center; color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+            <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 341.32px; height: 88.06px; text-align: center"><span style="color: #9CA3AF; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 03, 2022 - 4 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+          </div>
+          <img class="DataProcessingOutline1" style="width: 369px; height: 292.81px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/369x293" />
+        </div>
+        <div class="Group5" style="width: 369px; height: 518px; position: relative">
+          <div class="CardElement" style="width: 369px; height: 518px; padding-top: 315.55px; padding-bottom: 71.23px; padding-left: 13.53px; padding-right: 14.15px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 3.45px; display: inline-flex">
+            <div class="LoremIpsumDolor" style="width: 209.10px; height: 39.71px; text-align: center; color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+            <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 341.32px; height: 88.06px; text-align: center"><span style="color: #9CA3AF; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">March 12, 2022 - 6 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+          </div>
+          <img class="StartupOutline21" style="width: 369px; height: 292.81px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/369x293" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="LatestPosts" style="width: 296px; left: 152px; top: 1921px; position: absolute"><span style="color: #F8FAFC; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Latest </span><span style="color: #22D3EE; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Posts</span></div>
+  <div class="HeroSubtitle" style="width: 789px; height: 164px; left: 135px; top: 301px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+    <div class="TheEasiestWayToBuildAReactLandingPageInSecondsSaveYouTimeAndFocusOnYourProduct"><span style="color: #CBD5E1; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.<br/>Lorem ipsum dolor sit amet, </span><span style="color: #22D3EE; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word">consectetur</span><span style="color: #CBD5E1; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word"> adipiscing elit, <br/>sed do eiusmod tempor incididunt ut labore et </span><span style="color: #22D3EE; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word">dolore</span><span style="color: #CBD5E1; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word">.</span></div>
+  </div>
+  <div class="Frame104" style="width: 301px; height: 79px; padding: 10px; left: 182px; top: 2403px; position: absolute"></div>
+  <div class="Frame91" style="width: 206px; height: 44px; left: 1088px; top: 1928px; position: absolute; justify-content: center; align-items: center; gap: 12px; display: inline-flex">
+    <div class="ViewAllPosts" style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">View all Posts</div>
+    <div class="Frame" style="width: 44px; height: 44px; position: relative; transform: rotate(90deg); transform-origin: 0 0">
+      <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 33px; height: 33px; left: 5.50px; top: 5.50px; position: absolute; border: 2.75px #F8FAFC solid"></div>
+      <div class="Vector" style="width: 7.33px; height: 7.33px; left: 14.67px; top: 14.67px; position: absolute; border: 2.75px #F8FAFC solid"></div>
+      <div class="Vector" style="width: 0px; height: 14.67px; left: 22px; top: 14.67px; position: absolute; border: 2.75px #F8FAFC solid"></div>
+      <div class="Vector" style="width: 7.33px; height: 7.33px; left: 22px; top: 14.67px; position: absolute; border: 2.75px #F8FAFC solid"></div>
+    </div>
+  </div>
+  <div class="HiThereIMIxartz" style="left: 135px; top: 197px; position: absolute"><span style="color: white; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Hi there, I’m </span><span style="color: #22D3EE; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz</span><span style="color: white; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">👋</span></div>
+  <div class="WesternMan" style="width: 300px; height: 300px; left: 982px; top: 197px; position: absolute">
+    <div class="Body" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+      <img class="Body" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+      <div class="MaskGroup" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+        <img class="Body" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+        <div class="ChangeColor" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay; background: #9E6170"></div>
+      </div>
+    </div>
+    <div class="EyeEyebrow" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+      <img class="EyeEyebrow" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+      <div class="MaskGroup" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+        <img class="EyeEyebrow" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+        <div class="ChangeColor" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay; background: #2F1C1F"></div>
+      </div>
+    </div>
+    <div class="Face" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+      <img class="Face" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+      <div class="MaskGroup" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+        <img class="Face" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+        <div class="ChangeColor" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay; background: #B96C64"></div>
+      </div>
+    </div>
+    <div class="Hair" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+      <img class="Hair" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+      <div class="MaskGroup" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+        <img class="Hair" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+        <div class="ChangeColor" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay; background: #2F1C1F"></div>
+      </div>
+    </div>
+    <div class="Mouth" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+      <img class="Mouth" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+      <div class="MaskGroup" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute">
+        <img class="Mouth" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/300x300" />
+        <img class="ChangeColor" style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay" src="https://via.placeholder.com/300x300" />
+      </div>
+    </div>
+  </div>
+  <div class="Twitter" style="width: 60px; height: 60px; left: 142px; top: 513px; position: absolute">
+    <div class="Rectangle1" style="width: 60px; height: 60px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #0065A3 0%, #58C0FF 87%); border-radius: 100px"></div>
+    <div class="Rectangle3" style="width: 58.44px; height: 58.44px; left: 0.78px; top: 0.78px; position: absolute; background: linear-gradient(180deg, #1DA1F2 0%, rgba(29, 161, 242, 0.60) 100%); box-shadow: 5px 5px 5px; border-radius: 100px; border: 0.50px #1DA1F2 solid; filter: blur(5px)"></div>
+    <div class="Component3" style="width: 40.91px; height: 30px; left: 9.74px; top: 14.81px; position: absolute">
+      <div class="Vector" style="width: 37.01px; height: 30px; left: 0px; top: 0px; position: absolute; background: rgba(18.70, 72.16, 140.25, 0.50); box-shadow: 5px 5px 5px; filter: blur(5px)"></div>
+      <div class="Vector" style="width: 37.01px; height: 30px; left: 3.90px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0.90); border: 0.50px white solid"></div>
+    </div>
+  </div>
+  <div class="Facebook" style="width: 60px; height: 60px; left: 234px; top: 512px; position: absolute">
+    <div class="Rectangle1" style="width: 60px; height: 60px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #004DAE 0%, #4497FF 87%); border-radius: 100px"></div>
+    <div class="Rectangle3" style="width: 58.44px; height: 58.44px; left: 0.78px; top: 0.78px; position: absolute; background: linear-gradient(180deg, #1778F2 0%, rgba(23, 120, 242, 0.62) 100%); box-shadow: 2px 2px 2px; border-radius: 100px; border: 0.50px #7CB4FB solid; filter: blur(2px)"></div>
+    <div class="Component13" style="width: 28.05px; height: 50.95px; left: 15.88px; top: 9.04px; position: absolute">
+      <div class="Vector" style="width: 26.49px; height: 47.92px; left: 0px; top: 0.78px; position: absolute; background: rgba(18.70, 72.16, 140.25, 0.50); box-shadow: 5px 5px 5px; filter: blur(5px)"></div>
+      <img class="Union" style="width: 24.94px; height: 50.95px; left: 3.12px; top: 0px; position: absolute; border: 0.50px white solid" src="https://via.placeholder.com/25x51" />
+    </div>
+  </div>
+  <div class="Linkedin" style="width: 60px; height: 60px; left: 331px; top: 512px; position: absolute">
+    <div class="Rectangle1" style="width: 60px; height: 60px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #004081 0%, #5BA9F8 100%); border-radius: 100px"></div>
+    <div class="Rectangle3" style="width: 58.44px; height: 58.44px; left: 0.78px; top: 0.78px; position: absolute; background: linear-gradient(180deg, rgba(10, 102, 194, 0.56) 0%, #0A66C2 100%); box-shadow: 5px 5px 5px; border-radius: 100px; border: 0.50px #59ACFF solid; filter: blur(5px)"></div>
+    <div class="Component6" style="width: 36.62px; height: 35.45px; left: 11.69px; top: 12.47px; position: absolute">
+      <img class="Union" style="width: 33.51px; height: 33.51px; left: 0px; top: 1.95px; position: absolute; box-shadow: 10px 10px 10px; filter: blur(10px)" src="https://via.placeholder.com/34x34" />
+      <img class="Union" style="width: 33.51px; height: 33.51px; left: 3.12px; top: 0px; position: absolute; border: 0.50px white solid" src="https://via.placeholder.com/34x34" />
+    </div>
+  </div>
+  <div class="Youtube" style="width: 60px; height: 60px; left: 423px; top: 512px; position: absolute">
+    <div class="Rectangle1" style="width: 60px; height: 60px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #A70000 0%, #FF9090 100%); border-radius: 100px"></div>
+    <div class="Rectangle3" style="width: 58.44px; height: 58.44px; left: 0.78px; top: 0.78px; position: absolute; background: linear-gradient(180deg, rgba(255, 0, 0, 0.67) 0%, #FF0000 100%); box-shadow: 5px 5px 5px; border-radius: 100px; border: 0.50px #FF8888 solid; filter: blur(5px)"></div>
+    <div class="Component8" style="width: 35.45px; height: 24.94px; left: 12.08px; top: 17.53px; position: absolute">
+      <div class="Vector" style="width: 35.45px; height: 24.94px; left: -1.95px; top: 1.56px; position: absolute; background: #9B0000; box-shadow: 10px 10px 10px; filter: blur(10px)"></div>
+      <div class="Vector" style="width: 35.45px; height: 24.94px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0.90); border: 0.50px white solid"></div>
+    </div>
+  </div>
+  <div class="Frame107" style="width: 1150px; height: 300px; left: 143px; top: 1526px; position: absolute; background: rgba(30, 41, 59, 0.40); border-radius: 20px; justify-content: center; align-items: center; gap: 106px; display: inline-flex">
+    <div class="AwesomeFeature" style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+      <img class="DIllustrationsGabrielPinheiroCom" style="width: 150px; height: 191.58px" src="https://via.placeholder.com/150x192" />
+    </div>
+    <div class="Frame98" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 25px; display: inline-flex">
+      <div class="Frame97" style="justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+        <div class="Project3" style="color: #F8FAFC; font-size: 30px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Project3</div>
+        <div class="Frame20" style="padding: 8px; background: linear-gradient(180deg, rgba(124, 58, 237, 0.20) 0%, rgba(96, 165, 250, 0.20) 100%); border-radius: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div class="AwesomeFeature" style="color: #7C3AED; font-size: 14px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Awesome feature</div>
+        </div>
+      </div>
+      <div class="Frame21" style="width: 840px; height: 65px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 14px; display: flex">
+        <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSuspendisseBibendum" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum.</div>
+        <div class="NuncNonPosuereConsecteturJustoEratSemperEnimNonHendreritDuiOdioIdEnim" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</div>
+      </div>
+    </div>
+  </div>
+  <div class="Frame105" style="width: 1150px; height: 300px; padding: 30px; left: 143px; top: 844px; position: absolute; background: rgba(30, 41, 59, 0.40); border-radius: 20px; justify-content: center; align-items: center; gap: 44px; display: inline-flex">
+    <img class="DIllustrationsGabrielPinheiroCom" style="width: 250px; height: 231.76px" src="https://via.placeholder.com/250x232" />
+    <div class="Frame94" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 25px; display: inline-flex">
+      <div class="Frame93" style="justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+        <div class="Project1" style="color: #F8FAFC; font-size: 30px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Project1</div>
+        <div class="Frame20" style="padding: 8px; background: linear-gradient(180deg, rgba(16, 185, 129, 0.20) 0%, rgba(190, 242, 100, 0.20) 100%); border-radius: 10px; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div class="WebDesign" style="color: #10B981; font-size: 14px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Web Design</div>
+        </div>
+      </div>
+      <div class="Frame21" style="width: 840px; height: 65px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 14px; display: flex">
+        <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSuspendisseBibendum" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum.</div>
+        <div class="NuncNonPosuereConsecteturJustoEratSemperEnimNonHendreritDuiOdioIdEnim" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</div>
+      </div>
+    </div>
+  </div>
+  <div class="Frame106" style="width: 1150px; height: 300px; padding: 30px; left: 142px; top: 1185px; position: absolute; background: rgba(30, 41, 59, 0.40); border-radius: 20px; justify-content: center; align-items: center; gap: 76px; display: inline-flex">
+    <img class="DIllustrationsGabrielPinheiroCom" style="width: 200px; height: 208.10px" src="https://via.placeholder.com/200x208" />
+    <div class="Frame96" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 25px; display: inline-flex">
+      <div class="Frame95" style="justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+        <div class="Project2" style="color: #F8FAFC; font-size: 30px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Project2</div>
+        <div class="Frame20" style="padding: 8px; background: linear-gradient(180deg, rgba(220, 38, 38, 0.20) 0%, rgba(249, 115, 22, 0.20) 100%); border-radius: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div class="NextJs" style="color: #DC2626; font-size: 14px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Next.js</div>
+        </div>
+      </div>
+      <div class="Frame21" style="width: 840px; height: 65px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 14px; display: flex">
+        <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSuspendisseBibendum" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum.</div>
+        <div class="NuncNonPosuereConsecteturJustoEratSemperEnimNonHendreritDuiOdioIdEnim" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</div>
+      </div>
+    </div>
+  </div>
+  <div class="Frame86" style="left: 108px; top: 3020px; position: absolute; justify-content: flex-start; align-items: center; gap: 800px; display: inline-flex">
+    <div class="Frame80" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="Copyright2022ByIxartzSBlogBuiltWithByCreativedesignsguru" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">© Copyright 2022 by Ixartz’s blog. Built with ♥ by CreativeDesignsGuru</div>
+    </div>
+  </div>
+  <div class="Line10" style="width: 1440.05px; height: 0px; left: -0.02px; top: 2993px; position: absolute; border: 1px #CBD5E1 solid"></div>
+  <div class="Frame99" style="left: 1134px; top: 3010px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div class="Vector" style="width: 31.17px; height: 32.86px; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+    <div class="TeamFemale" style="flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div class="Social" style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 20.17px; height: 33px; left: 12.83px; top: 5.50px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 36.67px; height: 29.39px; left: 3.67px; top: 7.15px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 29.33px; height: 29.33px; left: 7.33px; top: 7.33px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 9.17px; left: 14.67px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 0.02px; left: 14.67px; top: 14.67px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 9.17px; left: 22px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 7.33px; height: 9.17px; left: 22px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="NavNavHeader" style="width: 1386px; height: 112px; padding-left: 100px; padding-right: 100px; padding-top: 20px; padding-bottom: 20px; left: 31px; top: 0px; position: absolute; justify-content: space-between; align-items: center; display: inline-flex">
+    <div class="Starter" style="justify-content: center; align-items: center; display: flex">
+      <div class="Frame" style="width: 44px; height: 44px; position: relative">
+        <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+        <div class="Vector" style="width: 11px; height: 14.67px; left: 5.50px; top: 22px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 11px; height: 22px; left: 16.50px; top: 14.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 11px; height: 29.33px; left: 27.50px; top: 7.33px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 25.67px; height: 0px; left: 7.33px; top: 36.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+      </div>
+      <div class="Starter" style="color: #22D3EE; font-size: 30px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz’s Blog</div>
+    </div>
+    <div class="NavNavMenu" style="justify-content: center; align-items: center; gap: 40px; display: flex">
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Blog</div>
+      </div>
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Newsletter</div>
+      </div>
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Twitter</div>
+      </div>
+    </div>
+  </div>
+  <div class="Cta" style="width: 1440px; height: 371px; left: 0px; top: 2656px; position: absolute">
+    <div class="StartTrialBg" style="width: 1440px; height: 371px; left: 0px; top: 0px; position: absolute; border-radius: 10px"></div>
+    <div class="SubscribeToMyNewsletters" style="width: 549px; height: 100px; left: 153px; top: 53px; position: absolute"><span style="color: #F8FAFC; font-size: 48px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Subscribe to my </span><span style="color: #22D3EE; font-size: 48px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Newsletters<br/></span></div>
+    <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitPhasellusMalesuadaNisiTellusNonImperdietNisiTemporAt" style="width: 853px; height: 24px; left: 153px; top: 186px; position: absolute; color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.</div>
+    <div class="Frame23" style="width: 522px; height: 70px; left: 769px; top: 130px; position: absolute">
+      <div class="ButtonGetStarted" style="width: 522px; height: 70px; left: 0px; top: 0px; position: absolute">
+        <div class="Rectangle4" style="width: 522px; height: 70px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 30px"></div>
+        <div class="EnterYourEmail" style="width: 180px; height: 24px; left: 42px; top: 23px; position: absolute; color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Enter your Email</div>
+      </div>
+      <div class="ButtonGetStarted" style="width: 164px; height: 46px; left: 341px; top: 12px; position: absolute">
+        <div class="Rectangle4" style="width: 164px; height: 46px; left: 0px; top: 0px; position: absolute; background: linear-gradient(270deg, #22D3EE 0%, #0EA5E9 100%); border-radius: 30px"></div>
+        <div class="Subscribe" style="left: 36px; top: 11px; position: absolute; color: #1E293B; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Subscribe</div>
+      </div>
+    </div>
+  </div>
+  <div class="RecentProjects" style="left: 142px; top: 705px; position: absolute"><span style="color: #F8FAFC; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Recent </span><span style="color: #22D3EE; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Projects</span></div>
+</div>
+
+
+
+
+/* Blog Page */
+
+<div class="BlogPage" style="width: 1440px; height: 2026px; position: relative; background: #0F172A">
+  <div class="Card2" style="width: 1440px; height: 900px; left: 0px; top: 209px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Card" style="width: 1440px; flex-direction: column; justify-content: center; align-items: center; gap: 20px; display: flex">
+      <div class="Card" style="width: 1440px; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+        <div class="CardElement" style="width: 369px; height: 518px; position: relative; background: #1E293B; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.10); border-radius: 20px; overflow: hidden">
+          <div class="LoremIpsumDolor" style="width: 209.10px; height: 39.71px; left: 79.64px; top: 315.55px; position: absolute; text-align: center; color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+          <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 341.32px; height: 88.06px; left: 13.53px; top: 358.71px; position: absolute; text-align: center"><span style="color: #9CA3AF; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 24, 2022 - 5 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+          <img class="NotificationsOutline1" style="width: 369px; height: 292.81px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/369x293" />
+        </div>
+        <div class="Group4" style="width: 369px; height: 518px; position: relative">
+          <div class="CardElement" style="width: 369px; height: 518px; padding-top: 315.55px; padding-bottom: 71.23px; padding-left: 13.53px; padding-right: 14.15px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 3.45px; display: inline-flex">
+            <div class="LoremIpsumDolor" style="width: 209.10px; height: 39.71px; text-align: center; color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+            <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 341.32px; height: 88.06px; text-align: center"><span style="color: #9CA3AF; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 03, 2022 - 4 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+          </div>
+          <img class="DataProcessingOutline1" style="width: 369px; height: 292.81px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/369x293" />
+        </div>
+        <div class="Group5" style="width: 369px; height: 518px; position: relative">
+          <div class="CardElement" style="width: 369px; height: 518px; padding-top: 315.55px; padding-bottom: 71.23px; padding-left: 13.53px; padding-right: 14.15px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 3.45px; display: inline-flex">
+            <div class="LoremIpsumDolor" style="width: 209.10px; height: 39.71px; text-align: center; color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+            <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 341.32px; height: 88.06px; text-align: center"><span style="color: #9CA3AF; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">March 12, 2022 - 6 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+          </div>
+          <img class="StartupOutline21" style="width: 369px; height: 292.81px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/369x293" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="Card" style="width: 1440px; height: 539px; left: 1px; top: 1009px; position: absolute; flex-direction: column; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+    <div class="Card" style="width: 1440px; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+      <div class="CardElement" style="width: 369px; height: 518px; position: relative; background: #1E293B; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.10); border-radius: 20px; overflow: hidden">
+        <div class="LoremIpsumDolor" style="width: 209.10px; height: 39.71px; left: 79.64px; top: 315.55px; position: absolute; text-align: center; color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+        <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 341.32px; height: 88.06px; left: 13.53px; top: 358.71px; position: absolute; text-align: center"><span style="color: #9CA3AF; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 24, 2022 - 5 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+        <img class="NotificationsOutline1" style="width: 369px; height: 292.81px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/369x293" />
+      </div>
+      <div class="Group4" style="width: 369px; height: 518px; position: relative">
+        <div class="CardElement" style="width: 369px; height: 518px; padding-top: 315.55px; padding-bottom: 71.23px; padding-left: 13.53px; padding-right: 14.15px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 3.45px; display: inline-flex">
+          <div class="LoremIpsumDolor" style="width: 209.10px; height: 39.71px; text-align: center; color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+          <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 341.32px; height: 88.06px; text-align: center"><span style="color: #9CA3AF; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 03, 2022 - 4 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+        </div>
+        <img class="DataProcessingOutline1" style="width: 369px; height: 292.81px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/369x293" />
+      </div>
+      <div class="Group5" style="width: 369px; height: 518px; position: relative">
+        <div class="CardElement" style="width: 369px; height: 518px; padding-top: 315.55px; padding-bottom: 71.23px; padding-left: 13.53px; padding-right: 14.15px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 3.45px; display: inline-flex">
+          <div class="LoremIpsumDolor" style="width: 209.10px; height: 39.71px; text-align: center; color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+          <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 341.32px; height: 88.06px; text-align: center"><span style="color: #9CA3AF; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">March 12, 2022 - 6 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+        </div>
+        <img class="StartupOutline21" style="width: 369px; height: 292.81px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/369x293" />
+      </div>
+    </div>
+  </div>
+  <div class="Frame86" style="left: 94.02px; top: 1925px; position: absolute; justify-content: flex-start; align-items: center; gap: 800px; display: inline-flex">
+    <div class="Frame80" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="Copyright2022ByIxartzSBlogBuiltWithByCreativedesignsguru" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">© Copyright 2022 by Ixartz’s blog. Built with ♥ by CreativeDesignsGuru</div>
+    </div>
+  </div>
+  <div class="Line10" style="width: 1440.05px; height: 0px; left: -4px; top: 1898px; position: absolute; border: 1px #CBD5E1 solid"></div>
+  <div class="Frame99" style="left: 1130.02px; top: 1915px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div class="Vector" style="width: 31.17px; height: 32.86px; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+    <div class="TeamFemale" style="flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div class="Social" style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 20.17px; height: 33px; left: 12.83px; top: 5.50px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 36.67px; height: 29.39px; left: 3.67px; top: 7.15px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 29.33px; height: 29.33px; left: 7.33px; top: 7.33px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 9.17px; left: 14.67px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 0.02px; left: 14.67px; top: 14.67px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 9.17px; left: 22px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 7.33px; height: 9.17px; left: 22px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="NavNavHeader" style="width: 1386px; height: 112px; padding-left: 100px; padding-right: 100px; padding-top: 20px; padding-bottom: 20px; left: 31px; top: 0px; position: absolute; justify-content: space-between; align-items: center; display: inline-flex">
+    <div class="Starter" style="justify-content: center; align-items: center; display: flex">
+      <div class="Frame" style="width: 44px; height: 44px; position: relative">
+        <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+        <div class="Vector" style="width: 11px; height: 14.67px; left: 5.50px; top: 22px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 11px; height: 22px; left: 16.50px; top: 14.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 11px; height: 29.33px; left: 27.50px; top: 7.33px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 25.67px; height: 0px; left: 7.33px; top: 36.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+      </div>
+      <div class="Starter" style="color: #22D3EE; font-size: 30px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz’s Blog</div>
+    </div>
+    <div class="NavNavMenu" style="justify-content: center; align-items: center; gap: 40px; display: flex">
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Blog</div>
+      </div>
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Newsletter</div>
+      </div>
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Twitter</div>
+      </div>
+    </div>
+  </div>
+  <div class="Cta" style="width: 1440px; height: 371px; left: -3px; top: 1583px; position: absolute">
+    <div class="StartTrialBg" style="width: 1440px; height: 371px; left: 0px; top: 0px; position: absolute; border-radius: 10px"></div>
+    <div class="SubscribeToMyNewsletters" style="width: 549px; height: 100px; left: 153px; top: 53px; position: absolute"><span style="color: #F8FAFC; font-size: 48px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Subscribe to my </span><span style="color: #22D3EE; font-size: 48px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Newsletters<br/></span></div>
+    <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitPhasellusMalesuadaNisiTellusNonImperdietNisiTemporAt" style="width: 853px; height: 24px; left: 153px; top: 186px; position: absolute; color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.</div>
+    <div class="Frame23" style="width: 522px; height: 70px; left: 769px; top: 130px; position: absolute">
+      <div class="ButtonGetStarted" style="width: 522px; height: 70px; left: 0px; top: 0px; position: absolute">
+        <div class="Rectangle4" style="width: 522px; height: 70px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 30px"></div>
+        <div class="EnterYourEmail" style="width: 180px; height: 24px; left: 42px; top: 23px; position: absolute; color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Enter your Email</div>
+      </div>
+      <div class="ButtonGetStarted" style="width: 164px; height: 46px; left: 341px; top: 12px; position: absolute">
+        <div class="Rectangle4" style="width: 164px; height: 46px; left: 0px; top: 0px; position: absolute; background: linear-gradient(270deg, #22D3EE 0%, #0EA5E9 100%); border-radius: 30px"></div>
+        <div class="Subscribe" style="left: 36px; top: 11px; position: absolute; color: #1E293B; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Subscribe</div>
+      </div>
+    </div>
+  </div>
+  <div class="PostsExamples" style="width: 360px; height: 57px; left: 540px; top: 181px; position: absolute; color: #F8FAFC; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Posts Examples</div>
+  <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSuspendisseBibendum" style="left: 364.05px; top: 276px; position: absolute; color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum.</div>
+</div>
+
+
+
+
+
+
+/* Blog Post Page */
+
+<div class="BlogPage" style="width: 1440px; height: 3717px; position: relative; background: #0F172A">
+  <div class="Frame86" style="left: 86px; top: 3626px; position: absolute; justify-content: flex-start; align-items: center; gap: 800px; display: inline-flex">
+    <div class="Frame80" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="Copyright2022ByIxartzSBlogBuiltWithByCreativedesignsguru" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">© Copyright 2022 by Ixartz’s blog. Built with ♥ by CreativeDesignsGuru</div>
+    </div>
+  </div>
+  <div class="Line10" style="width: 1440.05px; height: 0px; left: -1px; top: 3602px; position: absolute; border: 1px #CBD5E1 solid"></div>
+  <div class="Frame99" style="left: 1122px; top: 3619px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div class="Vector" style="width: 31.17px; height: 32.86px; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+    <div class="TeamFemale" style="flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div class="Social" style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 20.17px; height: 33px; left: 12.83px; top: 5.50px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 36.67px; height: 29.39px; left: 3.67px; top: 7.15px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 29.33px; height: 29.33px; left: 7.33px; top: 7.33px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 9.17px; left: 14.67px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 0.02px; left: 14.67px; top: 14.67px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 9.17px; left: 22px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 7.33px; height: 9.17px; left: 22px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="NavNavHeader" style="width: 1386px; height: 112px; padding-left: 100px; padding-right: 100px; padding-top: 20px; padding-bottom: 20px; left: 31px; top: 0px; position: absolute; justify-content: space-between; align-items: center; display: inline-flex">
+    <div class="Starter" style="justify-content: center; align-items: center; display: flex">
+      <div class="Frame" style="width: 44px; height: 44px; position: relative">
+        <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+        <div class="Vector" style="width: 11px; height: 14.67px; left: 5.50px; top: 22px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 11px; height: 22px; left: 16.50px; top: 14.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 11px; height: 29.33px; left: 27.50px; top: 7.33px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 25.67px; height: 0px; left: 7.33px; top: 36.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+      </div>
+      <div class="Starter" style="color: #22D3EE; font-size: 30px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz’s Blog</div>
+    </div>
+    <div class="NavNavMenu" style="justify-content: center; align-items: center; gap: 40px; display: flex">
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Blog</div>
+      </div>
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Newsletter</div>
+      </div>
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Twitter</div>
+      </div>
+    </div>
+  </div>
+  <div class="Cta" style="width: 1440px; height: 371px; left: 2px; top: 3231px; position: absolute">
+    <div class="StartTrialBg" style="width: 1440px; height: 371px; left: 0px; top: 0px; position: absolute; border-radius: 10px"></div>
+    <div class="SubscribeToMyNewsletters" style="width: 549px; height: 100px; left: 153px; top: 53px; position: absolute"><span style="color: #F8FAFC; font-size: 48px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Subscribe to my </span><span style="color: #22D3EE; font-size: 48px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Newsletters<br/></span></div>
+    <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitPhasellusMalesuadaNisiTellusNonImperdietNisiTemporAt" style="width: 853px; height: 24px; left: 153px; top: 186px; position: absolute; color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.</div>
+    <div class="Frame23" style="width: 522px; height: 70px; left: 769px; top: 130px; position: absolute">
+      <div class="ButtonGetStarted" style="width: 522px; height: 70px; left: 0px; top: 0px; position: absolute">
+        <div class="Rectangle4" style="width: 522px; height: 70px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 30px"></div>
+        <div class="EnterYourEmail" style="width: 180px; height: 24px; left: 42px; top: 23px; position: absolute; color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Enter your Email</div>
+      </div>
+      <div class="ButtonGetStarted" style="width: 164px; height: 46px; left: 341px; top: 12px; position: absolute">
+        <div class="Rectangle4" style="width: 164px; height: 46px; left: 0px; top: 0px; position: absolute; background: linear-gradient(270deg, #22D3EE 0%, #0EA5E9 100%); border-radius: 30px"></div>
+        <div class="Subscribe" style="left: 36px; top: 11px; position: absolute; color: #1E293B; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Subscribe</div>
+      </div>
+    </div>
+  </div>
+  <div class="LoremIpsumDolor" style="width: 530px; height: 57px; left: 462px; top: 244px; position: absolute; text-align: center; color: #F8FAFC; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+  <div class="ByIxartzOnApril2420225MinRead" style="left: 142.07px; top: 353px; position: absolute; color: #9CA3AF; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">By Ixartz on April 24, 2022 - 5 min read</div>
+  <img class="Frame114" style="width: 1200px; height: 800px; left: 124px; top: 425px; position: absolute; border-radius: 20px" src="https://via.placeholder.com/1200x800" />
+  <div class="LoremIpsumDolorLoremIpsumDolorSitAmetUtLaudantiumAdipisciEtAnimiDolorumEtNequeErrorAutMaximeNesciuntVelRecusandaeDucimusAtDoloremIsteIdMagniQuamIdCorruptiOfficiisAtMinusMinusEtQuidemRerum33NihilQuasAutConsequaturAsperioresEstSuntIlloEtSuntCommodiNonMagniQuisquamExPossimusDucimusIdFugaDictaEtObcaecatiBlanditiisSedQuidemSintEstMolestiaeEaQuamCorruptiNamItaqueQuaeEtRationeErrorVelPossimusSuntQuiCupiditateQuaeUtMagnamVeritatisVelNemoDoloresIdAspernaturDelenitiSedItaqueAutOdioPlaceatLoremIpsumDolorSitAmetEumAperiamFacilisAutDelenitiIpsaAtAspernaturNisiQuoCorporisAssumendaNonDoloresRerumAdVelitPorroRemNullaReprehenderitNonRepudiandaeHarumUtHarumLaudantiumEtVeritatisEaqueEtNesciuntVoluptasAdAliquamAliquamNonNemoVoluptasSitMolestiaeDoloribusAtNemoRepudiandaeEtReiciendisAutemCumCulpaOptioExIpsumEiusEtAccusantiumOmnisAtNequeQuaeratNonMagniQuisquamEumAperiamFacilisIdQuibusdamCorporisEtVoluptateMinusQuiInternosImpeditVelUndeLoremIpsumDolorIdQuibusdamCorporisEtVoluptateMinusAutVeniamQuasiAMagniInciduntInFugaDistinctioEtSuntAutemEtDoloreDolorQuoExplicaboQuidemAutEsseSuscipitEaInventoreQuiaNonNullaLaborumNonQuiaNemoEstPariaturQuiTemporibusMolestiaeAutCorporisDistinctioUtAliquamEvenietEtPerferendisVoluptateQuiRepellatQuiaEstArchitectoAssumendaCumIpsamArchitectoAutMollitiaPerferendisAutIllumUllamAbPraesentiumAnimi" style="width: 1109px; left: 165px; top: 1350px; position: absolute; text-align: justify"><span style="color: #F8FAFC; font-size: 36px; font-family: Roboto; font-weight: 700; line-height: 45px; word-wrap: break-word">Lorem ipsum dolor <br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 45px; word-wrap: break-word"><br/>Lorem ipsum dolor sit amet. Ut laudantium adipisci et animi dolorum et neque error aut maxime nesciunt. Vel recusandae ducimus At dolorem iste id magni quam id corrupti officiis At minus minus et quidem rerum! 33 nihil quas aut consequatur asperiores est sunt illo et sunt commodi.<br/><br/>Non magni quisquam ex possimus ducimus id fuga dicta et obcaecati blanditiis sed quidem sint est molestiae ea quam corrupti. Nam itaque quae et ratione error vel possimus sunt! Qui cupiditate quae ut magnam veritatis vel nemo dolores id aspernatur deleniti sed itaque aut odio placeat.<br/><br/></span><span style="color: #F8FAFC; font-size: 36px; font-family: Roboto; font-weight: 700; line-height: 45px; word-wrap: break-word">Lorem ipsum dolor</span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 45px; word-wrap: break-word"> </span><span style="color: #F8FAFC; font-size: 36px; font-family: Roboto; font-weight: 700; line-height: 45px; word-wrap: break-word">sit amet <br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 45px; word-wrap: break-word"><br/>Eum aperiam facilis aut deleniti ipsa At aspernatur nisi quo corporis assumenda non dolores rerum ad velit porro rem nulla reprehenderit. Non repudiandae harum ut harum laudantium et veritatis eaque et nesciunt voluptas ad aliquam aliquam non nemo voluptas. Sit molestiae doloribus At nemo repudiandae et reiciendis autem cum culpa optio ex ipsum eius et accusantium omnis At neque quaerat.<br/><br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 45px; word-wrap: break-word">Non magni quisquam<br/>Eum aperiam facilis<br/>Id quibusdam corporis et voluptate minus<br/>Qui internos impedit vel unde<br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 45px; word-wrap: break-word"><br/></span><span style="color: #F8FAFC; font-size: 36px; font-family: Roboto; font-weight: 700; line-height: 45px; word-wrap: break-word">Lorem ipsum dolor<br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 45px; word-wrap: break-word"><br/>Id quibusdam corporis et voluptate minus aut veniam quasi a magni incidunt in fuga distinctio et sunt autem et dolore dolor. Quo explicabo quidem aut esse suscipit ea inventore quia non nulla laborum non quia nemo est pariatur qui temporibus molestiae! Aut corporis distinctio ut aliquam eveniet et perferendis voluptate qui repellat quia. Est architecto assumenda cum ipsam architecto aut mollitia perferendis aut illum ullam ab praesentium animi.</span></div>
+  <div class="Frame115" style="left: 168px; top: 2947px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 21px; display: inline-flex">
+    <div class="FurtherReadings" style="width: 1109px; text-align: justify; color: #F8FAFC; font-size: 36px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Further Readings</div>
+    <div class="LoremIpsumDolor" style="width: 1109px; text-align: justify; color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; text-decoration: underline; word-wrap: break-word">Lorem ipsum dolor </div>
+    <div class="LoremIpsumDolor" style="width: 1109px; text-align: justify; color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; text-decoration: underline; word-wrap: break-word">Lorem ipsum dolor </div>
+    <div class="LoremIpsumDolor" style="width: 1109px; text-align: justify; color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; text-decoration: underline; word-wrap: break-word">Lorem ipsum dolor </div>
+  </div>
+</div>
+
+/* Newsletter Page */
+
+<div class="NewsletterPage" style="width: 1440px; height: 854px; position: relative; background: #0F172A">
+  <div class="Frame86" style="left: 99.02px; top: 777px; position: absolute; justify-content: flex-start; align-items: center; gap: 800px; display: inline-flex">
+    <div class="Frame80" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="Copyright2022ByIxartzSBlogBuiltWithByCreativedesignsguru" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">© Copyright 2022 by Ixartz’s blog. Built with ♥ by CreativeDesignsGuru</div>
+    </div>
+  </div>
+  <div class="Line10" style="width: 1440.05px; height: 0px; left: 1px; top: 750px; position: absolute; border: 1px #CBD5E1 solid"></div>
+  <div class="Frame99" style="left: 1135.03px; top: 767px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div class="Vector" style="width: 31.17px; height: 32.86px; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+    <div class="TeamFemale" style="flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div class="Social" style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 20.17px; height: 33px; left: 12.83px; top: 5.50px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 36.67px; height: 29.39px; left: 3.67px; top: 7.15px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+        <div class="Frame" style="width: 44px; height: 44px; position: relative">
+          <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+          <div class="Vector" style="width: 29.33px; height: 29.33px; left: 7.33px; top: 7.33px; position: absolute; background: #0F172A; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 9.17px; left: 14.67px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 0.02px; left: 14.67px; top: 14.67px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 0px; height: 9.17px; left: 22px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+          <div class="Vector" style="width: 7.33px; height: 9.17px; left: 22px; top: 20.17px; position: absolute; border: 2.75px #CBD5E1 solid"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="NavNavHeader" style="width: 1386px; height: 112px; padding-left: 100px; padding-right: 100px; padding-top: 20px; padding-bottom: 20px; left: 31px; top: 0px; position: absolute; justify-content: space-between; align-items: center; display: inline-flex">
+    <div class="Starter" style="justify-content: center; align-items: center; display: flex">
+      <div class="Frame" style="width: 44px; height: 44px; position: relative">
+        <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+        <div class="Vector" style="width: 11px; height: 14.67px; left: 5.50px; top: 22px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 11px; height: 22px; left: 16.50px; top: 14.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 11px; height: 29.33px; left: 27.50px; top: 7.33px; position: absolute; border: 2.75px #22D3EE solid"></div>
+        <div class="Vector" style="width: 25.67px; height: 0px; left: 7.33px; top: 36.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+      </div>
+      <div class="Starter" style="color: #22D3EE; font-size: 30px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz’s Blog</div>
+    </div>
+    <div class="NavNavMenu" style="justify-content: center; align-items: center; gap: 40px; display: flex">
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Blog</div>
+      </div>
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Newsletter</div>
+      </div>
+      <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Twitter</div>
+      </div>
+    </div>
+  </div>
+  <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitPhasellusMalesuadaNisiTellusNonImperdietNisiTemporAt" style="width: 855px; height: 72px; left: 303px; top: 302px; position: absolute"><span style="color: #CBD5E1; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum </span><span style="color: #CBD5E1; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">dolor</span><span style="color: #CBD5E1; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> sit amet, consectetur adipiscing elit.  Phasellus malesuada nisi tellus, non </span><span style="color: #CBD5E1; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">imperdiet</span><span style="color: #22D3EE; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word"> </span><span style="color: #CBD5E1; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">nisi tempor at.</span></div>
+  <div class="SubscribeToMyNewsletters" style="left: 412px; top: 196px; position: absolute"><span style="color: #F8FAFC; font-size: 48px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Subscribe to my </span><span style="color: #22D3EE; font-size: 48px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Newsletters</span></div>
+  <div class="Frame24" style="width: 861px; height: 70px; left: 293px; top: 547px; position: absolute">
+    <div class="ButtonGetStarted" style="width: 861px; height: 70px; left: 0px; top: 0px; position: absolute">
+      <div class="Rectangle4" style="width: 861px; height: 70px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 30px"></div>
+      <div class="EnterYourEmail" style="width: 348.28px; height: 24px; left: 34px; top: 23px; position: absolute; color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Enter your Email</div>
+    </div>
+    <div class="ButtonGetStarted" style="width: 164px; height: 46px; left: 680px; top: 12px; position: absolute">
+      <div class="Rectangle4" style="width: 164px; height: 46px; left: 0px; top: 0px; position: absolute; background: linear-gradient(270deg, #22D3EE 0%, #0EA5E9 100%); border-radius: 30px"></div>
+      <div class="Subscribe" style="left: 44px; top: 11px; position: absolute; color: #1E293B; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Subscribe</div>
+    </div>
+  </div>
+  <div class="LoremIpsumDolorSitAmetLoremIpsumLoremIpsumDolorSit" style="left: 345px; top: 401px; position: absolute; text-align: justify"><span style="color: #CBD5E1; font-size: 24px; font-family: Roboto; font-weight: 400; line-height: 30px; word-wrap: break-word">Lorem ipsum dolor sit </span><span style="color: #22D3EE; font-size: 24px; font-family: Roboto; font-weight: 700; line-height: 30px; word-wrap: break-word">amet<br/></span><span style="color: #CBD5E1; font-size: 24px; font-family: Roboto; font-weight: 400; line-height: 30px; word-wrap: break-word">Lorem ipsum <br/>Lorem </span><span style="color: #22D3EE; font-size: 24px; font-family: Roboto; font-weight: 700; line-height: 30px; word-wrap: break-word">ipsum</span><span style="color: #CBD5E1; font-size: 24px; font-family: Roboto; font-weight: 400; line-height: 30px; word-wrap: break-word"> dolor sit</span></div>
+</div>
+
+
+
+
+
+
+
+
+/* Mobile Version Design Content */
+
+/* Home Page */
+
+<div class="IphoneSe1" style="width: 320px; height: 2491px; position: relative; background: #0F172A">
+  <div class="Starter" style="left: 39px; top: 16px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Starter" style="color: #22D3EE; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz’s Blog</div>
+  </div>
+  <div class="WesternMan" style="width: 100px; height: 100px; left: 110px; top: 73px; position: absolute">
+    <div class="Body" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+      <img class="Body" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+      <div class="MaskGroup" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+        <img class="Body" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+        <div class="ChangeColor" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay; background: #9E6170"></div>
+      </div>
+    </div>
+    <div class="EyeEyebrow" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+      <img class="EyeEyebrow" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+      <div class="MaskGroup" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+        <img class="EyeEyebrow" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+        <div class="ChangeColor" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay; background: #2F1C1F"></div>
+      </div>
+    </div>
+    <div class="Face" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+      <img class="Face" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+      <div class="MaskGroup" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+        <img class="Face" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+        <div class="ChangeColor" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay; background: #B96C64"></div>
+      </div>
+    </div>
+    <div class="Hair" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+      <img class="Hair" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+      <div class="MaskGroup" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+        <img class="Hair" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+        <div class="ChangeColor" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay; background: #2F1C1F"></div>
+      </div>
+    </div>
+    <div class="Mouth" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+      <img class="Mouth" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+      <div class="MaskGroup" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+        <img class="Mouth" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/100x100" />
+        <img class="ChangeColor" style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; mix-blend-mode: overlay" src="https://via.placeholder.com/100x100" />
+      </div>
+    </div>
+  </div>
+  <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitPhasellusMalesuadaNisiTellusNonImperdietNisiTemporAtLoremIpsumDolorSitAmetConsecteturAdipiscingElitSedDoEiusmodTemporIncididuntUtLaboreEtDolore" style="width: 280px; height: 54px; left: 27px; top: 229px; position: absolute"><span style="color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.<br/>Lorem ipsum dolor sit amet, </span><span style="color: #22D3EE; font-size: 10px; font-family: Roboto; font-weight: 500; word-wrap: break-word">consectetur</span><span style="color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 500; word-wrap: break-word"> adipiscing elit, sed do eiusmod tempor incididunt ut labore et </span><span style="color: #22D3EE; font-size: 10px; font-family: Roboto; font-weight: 500; word-wrap: break-word">dolore</span><span style="color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 500; word-wrap: break-word">.</span></div>
+  <div class="NavNavMenu" style="left: 186px; top: 19px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Blog</div>
+    </div>
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Newsletter</div>
+    </div>
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Twitter</div>
+    </div>
+  </div>
+  <div class="HiThereIMIxartz" style="left: 67px; top: 190px; position: absolute"><span style="color: white; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Hi there, I’m </span><span style="color: #22D3EE; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz</span><span style="color: white; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">👋</span></div>
+  <div class="Frame100" style="left: 70px; top: 311px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+    <div class="Twitter" style="width: 30px; height: 30px; position: relative">
+      <div class="Rectangle1" style="width: 30px; height: 30px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #0065A3 0%, #58C0FF 87%); border-radius: 100px"></div>
+      <div class="Rectangle3" style="width: 29.22px; height: 29.22px; left: 0.39px; top: 0.39px; position: absolute; background: linear-gradient(180deg, #1DA1F2 0%, rgba(29, 161, 242, 0.60) 100%); box-shadow: 5px 5px 5px; border-radius: 100px; border: 0.50px #1DA1F2 solid; filter: blur(5px)"></div>
+      <div class="Component3" style="width: 20.45px; height: 15px; left: 4.87px; top: 7.40px; position: absolute">
+        <div class="Vector" style="width: 18.51px; height: 15px; left: 0px; top: 0px; position: absolute; background: rgba(18.70, 72.16, 140.25, 0.50); box-shadow: 5px 5px 5px; filter: blur(5px)"></div>
+        <div class="Vector" style="width: 18.51px; height: 15px; left: 1.95px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0.90); border: 0.50px white solid"></div>
+      </div>
+    </div>
+    <div class="Facebook" style="width: 30px; height: 30px; position: relative">
+      <div class="Rectangle1" style="width: 30px; height: 30px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #004DAE 0%, #4497FF 87%); border-radius: 100px"></div>
+      <div class="Rectangle3" style="width: 29.22px; height: 29.22px; left: 0.39px; top: 0.39px; position: absolute; background: linear-gradient(180deg, #1778F2 0%, rgba(23, 120, 242, 0.62) 100%); box-shadow: 2px 2px 2px; border-radius: 100px; border: 0.50px #7CB4FB solid; filter: blur(2px)"></div>
+      <div class="Component13" style="width: 14.03px; height: 25.48px; left: 7.94px; top: 4.52px; position: absolute">
+        <div class="Vector" style="width: 13.25px; height: 23.96px; left: 0px; top: 0.39px; position: absolute; background: rgba(18.70, 72.16, 140.25, 0.50); box-shadow: 5px 5px 5px; filter: blur(5px)"></div>
+        <img class="Union" style="width: 12.47px; height: 25.48px; left: 1.56px; top: 0px; position: absolute; border: 0.50px white solid" src="https://via.placeholder.com/12x25" />
+      </div>
+    </div>
+    <div class="Linkedin" style="width: 30px; height: 30px; position: relative">
+      <div class="Rectangle1" style="width: 30px; height: 30px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #004081 0%, #5BA9F8 100%); border-radius: 100px"></div>
+      <div class="Rectangle3" style="width: 29.22px; height: 29.22px; left: 0.39px; top: 0.39px; position: absolute; background: linear-gradient(180deg, rgba(10, 102, 194, 0.56) 0%, #0A66C2 100%); box-shadow: 5px 5px 5px; border-radius: 100px; border: 0.50px #59ACFF solid; filter: blur(5px)"></div>
+      <div class="Component6" style="width: 18.31px; height: 17.73px; left: 5.84px; top: 6.23px; position: absolute">
+        <img class="Union" style="width: 16.75px; height: 16.75px; left: 0px; top: 0.97px; position: absolute; box-shadow: 10px 10px 10px; filter: blur(10px)" src="https://via.placeholder.com/17x17" />
+        <img class="Union" style="width: 16.75px; height: 16.75px; left: 1.56px; top: 0px; position: absolute; border: 0.50px white solid" src="https://via.placeholder.com/17x17" />
+      </div>
+    </div>
+    <div class="Youtube" style="width: 30px; height: 30px; position: relative">
+      <div class="Rectangle1" style="width: 30px; height: 30px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #A70000 0%, #FF9090 100%); border-radius: 100px"></div>
+      <div class="Rectangle3" style="width: 29.22px; height: 29.22px; left: 0.39px; top: 0.39px; position: absolute; background: linear-gradient(180deg, rgba(255, 0, 0, 0.67) 0%, #FF0000 100%); box-shadow: 5px 5px 5px; border-radius: 100px; border: 0.50px #FF8888 solid; filter: blur(5px)"></div>
+      <div class="Component8" style="width: 17.73px; height: 12.47px; left: 6.04px; top: 8.77px; position: absolute">
+        <div class="Vector" style="width: 17.73px; height: 12.47px; left: -0.97px; top: 0.78px; position: absolute; background: #9B0000; box-shadow: 10px 10px 10px; filter: blur(10px)"></div>
+        <div class="Vector" style="width: 17.73px; height: 12.47px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0.90); border: 0.50px white solid"></div>
+      </div>
+    </div>
+  </div>
+  <div class="RecentProjects" style="left: 27px; top: 399px; position: absolute"><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Recent </span><span style="color: #22D3EE; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Projects</span></div>
+  <div class="Frame108" style="padding: 10px; left: 17px; top: 447px; position: absolute; background: rgba(30, 41, 59, 0.40); border-radius: 20px; flex-direction: column; justify-content: center; align-items: center; gap: 18px; display: inline-flex">
+    <img class="DIllustrationsGabrielPinheiroCom" style="width: 50px; height: 46.35px" src="https://via.placeholder.com/50x46" />
+    <div class="Frame100" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 25px; display: flex">
+      <div class="Frame93" style="justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div class="Project1" style="color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Project1</div>
+        <div class="Frame20" style="padding: 8px; background: linear-gradient(180deg, rgba(16, 185, 129, 0.20) 0%, rgba(190, 242, 100, 0.20) 100%); border-radius: 10px; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div class="WebDesign" style="color: #10B981; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Web Design</div>
+        </div>
+      </div>
+    </div>
+    <div class="Frame101" style="height: 60px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 23px; display: flex">
+      <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSuspendisseBibendum" style="width: 267.32px; height: 12.37px; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum.</div>
+      <div class="NuncNonPosuereConsecteturJustoEratSemperEnimNonHendreritDuiOdioIdEnim" style="width: 267px; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</div>
+    </div>
+  </div>
+  <div class="Frame109" style="padding: 10px; left: 17px; top: 662px; position: absolute; background: rgba(30, 41, 59, 0.40); border-radius: 20px; flex-direction: column; justify-content: center; align-items: center; gap: 18px; display: inline-flex">
+    <img class="DIllustrationsGabrielPinheiroCom" style="width: 50px; height: 52.03px" src="https://via.placeholder.com/50x52" />
+    <div class="Frame95" style="justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div class="Project2" style="color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Project2</div>
+      <div class="Frame20" style="padding: 8px; background: linear-gradient(180deg, rgba(220, 38, 38, 0.20) 0%, rgba(249, 115, 22, 0.20) 100%); border-radius: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="NextJs" style="color: #DC2626; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Next.js</div>
+      </div>
+    </div>
+    <div class="Frame104" style="height: 60px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 23px; display: flex">
+      <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSuspendisseBibendum" style="width: 268px; height: 12.37px; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum.</div>
+      <div class="NuncNonPosuereConsecteturJustoEratSemperEnimNonHendreritDuiOdioIdEnim" style="width: 267px; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</div>
+    </div>
+  </div>
+  <div class="LatestPosts" style="left: 27px; top: 1127px; position: absolute"><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Latest </span><span style="color: #22D3EE; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Posts</span></div>
+  <div class="Frame111" style="padding: 10px; left: 17px; top: 883px; position: absolute; background: rgba(30, 41, 59, 0.40); border-radius: 20px; flex-direction: column; justify-content: center; align-items: center; gap: 18px; display: inline-flex">
+    <img class="DIllustrationsGabrielPinheiroCom" style="width: 50px; height: 63.86px" src="https://via.placeholder.com/50x64" />
+    <div class="Frame97" style="justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div class="Project3" style="color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Project3</div>
+      <div class="Frame20" style="padding: 8px; background: linear-gradient(180deg, rgba(124, 58, 237, 0.20) 0%, rgba(96, 165, 250, 0.20) 100%); border-radius: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="AwesomeFeature" style="color: #7C3AED; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Awesome feature</div>
+      </div>
+    </div>
+    <div class="Frame101" style="height: 60px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 23px; display: flex">
+      <div class="Frame110" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 23px; display: flex">
+        <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSuspendisseBibendum" style="width: 268px; height: 12.37px; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum.</div>
+        <div class="NuncNonPosuereConsecteturJustoEratSemperEnimNonHendreritDuiOdioIdEnim" style="width: 268px; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</div>
+      </div>
+    </div>
+  </div>
+  <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitPhasellusMalesuadaNisiTellusNonImperdietNisiTemporAt" style="left: 26px; top: 2303px; position: absolute; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.</div>
+  <div class="SubscribeToMyNewsletters" style="left: 26px; top: 2260px; position: absolute"><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Subscribe to my </span><span style="color: #22D3EE; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Newsletters</span></div>
+  <div class="ButtonGetStarted" style="width: 280px; height: 37.55px; left: 20px; top: 2342px; position: absolute">
+    <div class="Rectangle4" style="width: 280px; height: 37.55px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 30px"></div>
+    <div class="EnterYourEmail" style="width: 190.40px; height: 16.80px; left: 18.67px; top: 12.13px; position: absolute; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Enter your Email</div>
+  </div>
+  <div class="ButtonGetStarted" style="width: 80px; height: 28.05px; left: 214px; top: 2347px; position: absolute">
+    <div class="Rectangle4" style="width: 80px; height: 28.05px; left: 0px; top: 0px; position: absolute; background: linear-gradient(270deg, #22D3EE 0%, #0EA5E9 100%); border-radius: 30px"></div>
+    <div class="Subscribe" style="width: 47px; height: 10px; left: 20px; top: 9px; position: absolute; color: #1E293B; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Subscribe</div>
+  </div>
+  <div class="Copyright2022ByIxartzSBlogBuiltWithByCreativedesignsguru" style="left: 34px; top: 2446px; position: absolute; color: #CBD5E1; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">© Copyright 2022 by Ixartz’s blog. Built with ♥ by CreativeDesignsGuru</div>
+  <div class="Line10" style="width: 320px; height: 0px; left: 0px; top: 2437px; position: absolute; border: 1px #CBD5E1 solid"></div>
+  <div class="Frame112" style="left: 132px; top: 2460px; position: absolute; justify-content: center; align-items: center; gap: 5px; display: inline-flex">
+    <div class="Vector" style="width: 10px; height: 10.54px; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 6.88px; height: 11.25px; left: 4.38px; top: 1.87px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    </div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 12.50px; height: 10.02px; left: 1.25px; top: 2.44px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    </div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 10px; height: 10px; left: 2.50px; top: 2.50px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 3.13px; left: 5px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 0.01px; left: 5px; top: 5px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 3.13px; left: 7.50px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 2.50px; height: 3.13px; left: 7.50px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+    </div>
+  </div>
+  <div class="Frame113" style="width: 115px; height: 28px; left: 189px; top: 1125px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="ViewAllPosts" style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 700; word-wrap: break-word">View all Posts</div>
+    <div class="Frame" style="width: 20px; height: 20px; position: relative; transform: rotate(90deg); transform-origin: 0 0">
+      <div class="Vector" style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 15px; height: 15px; left: 2.50px; top: 2.50px; position: absolute; border: 1px #F8FAFC solid"></div>
+      <div class="Vector" style="width: 3.33px; height: 3.33px; left: 6.67px; top: 6.67px; position: absolute; border: 1px #F8FAFC solid"></div>
+      <div class="Vector" style="width: 0px; height: 6.67px; left: 10px; top: 6.67px; position: absolute; border: 1px #F8FAFC solid"></div>
+      <div class="Vector" style="width: 3.33px; height: 3.33px; left: 10px; top: 6.67px; position: absolute; border: 1px #F8FAFC solid"></div>
+    </div>
+  </div>
+  <div class="CardElement" style="width: 230px; height: 322.87px; left: 45px; top: 1179px; position: absolute; background: #1E293B; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.10); border-radius: 20px; overflow: hidden">
+    <div class="LoremIpsumDolor" style="left: 51.64px; top: 196.68px; position: absolute; text-align: center; color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+    <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 212.75px; height: 54.89px; left: 8.43px; top: 223.59px; position: absolute; text-align: center"><span style="color: #9CA3AF; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 24, 2022 - 5 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+    <img class="NotificationsOutline1" style="width: 230px; height: 182.51px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/230x183" />
+  </div>
+  <div class="Group5" style="width: 230px; height: 322.87px; left: 45px; top: 1896px; position: absolute">
+    <div class="CardElement" style="width: 230px; height: 322.87px; padding-top: 196.68px; padding-bottom: 44.39px; padding-left: 8.43px; padding-right: 8.82px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 2.15px; display: inline-flex">
+      <div class="LoremIpsumDolor" style="width: 130.33px; height: 24.75px; text-align: center; color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+      <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 212.75px; height: 54.89px; text-align: center"><span style="color: #9CA3AF; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">March 12, 2022 - 6 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+    </div>
+    <div class="StartupOutline21" style="width: 230px; height: 182.51px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px; overflow: hidden; background-image: url(https://via.placeholder.com/230x183)"></div>
+  </div>
+  <div class="Group4" style="width: 230px; height: 322.87px; left: 45px; top: 1535px; position: absolute">
+    <div class="CardElement" style="width: 230px; height: 322.87px; padding-top: 196.68px; padding-bottom: 44.39px; padding-left: 8.43px; padding-right: 8.82px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 2.15px; display: inline-flex">
+      <div class="LoremIpsumDolor" style="width: 130.33px; height: 24.75px; text-align: center; color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+      <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 212.75px; height: 54.89px; text-align: center"><span style="color: #9CA3AF; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 03, 2022 - 4 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+    </div>
+    <div class="DataProcessingOutline1" style="width: 230px; height: 182.51px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px; overflow: hidden; background-image: url(https://via.placeholder.com/230x183)"></div>
+  </div>
+</div>
+
+
+
+/* Blog Page */
+
+
+<div class="IphoneSe2" style="width: 320px; height: 2624px; position: relative; background: #0F172A">
+  <div class="Starter" style="left: 39px; top: 16px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Starter" style="color: #22D3EE; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz’s Blog</div>
+  </div>
+  <div class="NavNavMenu" style="left: 186px; top: 19px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Blog</div>
+    </div>
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Newsletter</div>
+    </div>
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Twitter</div>
+    </div>
+  </div>
+  <div class="PostsExamples" style="left: 88px; top: 87px; position: absolute; color: white; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Posts Examples</div>
+  <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitPhasellusMalesuadaNisiTellusNonImperdietNisiTemporAt" style="left: 26px; top: 2433px; position: absolute; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.</div>
+  <div class="SubscribeToMyNewsletters" style="left: 26px; top: 2390px; position: absolute"><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Subscribe to my </span><span style="color: #22D3EE; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Newsletters</span></div>
+  <div class="ButtonGetStarted" style="width: 280px; height: 37.55px; left: 20px; top: 2472px; position: absolute">
+    <div class="Rectangle4" style="width: 280px; height: 37.55px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 30px"></div>
+    <div class="EnterYourEmail" style="width: 190.40px; height: 16.80px; left: 18.67px; top: 12.13px; position: absolute; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Enter your Email</div>
+  </div>
+  <div class="ButtonGetStarted" style="width: 80px; height: 28.05px; left: 214px; top: 2477px; position: absolute">
+    <div class="Rectangle4" style="width: 80px; height: 28.05px; left: 0px; top: 0px; position: absolute; background: linear-gradient(270deg, #22D3EE 0%, #0EA5E9 100%); border-radius: 30px"></div>
+    <div class="Subscribe" style="left: 18px; top: 8px; position: absolute; color: #1E293B; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Subscribe</div>
+  </div>
+  <div class="Copyright2022ByIxartzSBlogBuiltWithByCreativedesignsguru" style="left: 34px; top: 2576px; position: absolute; color: #CBD5E1; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">© Copyright 2022 by Ixartz’s blog. Built with ♥ by CreativeDesignsGuru</div>
+  <div class="Line10" style="width: 320px; height: 0px; left: 0px; top: 2567px; position: absolute; border: 1px #CBD5E1 solid"></div>
+  <div class="Frame112" style="left: 132px; top: 2590px; position: absolute; justify-content: center; align-items: center; gap: 5px; display: inline-flex">
+    <div class="Vector" style="width: 10px; height: 10.54px; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 6.88px; height: 11.25px; left: 4.38px; top: 1.87px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    </div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 12.50px; height: 10.02px; left: 1.25px; top: 2.44px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    </div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 10px; height: 10px; left: 2.50px; top: 2.50px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 3.13px; left: 5px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 0.01px; left: 5px; top: 5px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 3.13px; left: 7.50px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 2.50px; height: 3.13px; left: 7.50px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+    </div>
+  </div>
+  <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitSuspendisseBibendum" style="width: 248.01px; height: 26.42px; left: 36.06px; top: 127px; position: absolute; text-align: center; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum.</div>
+  <div class="CardElement" style="width: 230px; height: 322.87px; left: 47px; top: 197px; position: absolute; background: #1E293B; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.10); border-radius: 20px; overflow: hidden">
+    <div class="LoremIpsumDolor" style="left: 51.64px; top: 196.68px; position: absolute; text-align: center; color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+    <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 212.75px; height: 54.89px; left: 8.43px; top: 223.59px; position: absolute; text-align: center"><span style="color: #9CA3AF; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 24, 2022 - 5 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+    <img class="NotificationsOutline1" style="width: 230px; height: 182.51px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/230x183" />
+  </div>
+  <div class="Group5" style="width: 230px; height: 322.87px; left: 47px; top: 914px; position: absolute">
+    <div class="CardElement" style="width: 230px; height: 322.87px; padding-top: 196.68px; padding-bottom: 44.39px; padding-left: 8.43px; padding-right: 8.82px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 2.15px; display: inline-flex">
+      <div class="LoremIpsumDolor" style="width: 130.33px; height: 24.75px; text-align: center; color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+      <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 212.75px; height: 54.89px; text-align: center"><span style="color: #9CA3AF; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">March 12, 2022 - 6 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+    </div>
+    <div class="StartupOutline21" style="width: 230px; height: 182.51px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px; overflow: hidden; background-image: url(https://via.placeholder.com/230x183)"></div>
+  </div>
+  <div class="Group4" style="width: 230px; height: 322.87px; left: 47px; top: 553px; position: absolute">
+    <div class="CardElement" style="width: 230px; height: 322.87px; padding-top: 196.68px; padding-bottom: 44.39px; padding-left: 8.43px; padding-right: 8.82px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 2.15px; display: inline-flex">
+      <div class="LoremIpsumDolor" style="width: 130.33px; height: 24.75px; text-align: center; color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+      <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 212.75px; height: 54.89px; text-align: center"><span style="color: #9CA3AF; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 03, 2022 - 4 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+    </div>
+    <div class="DataProcessingOutline1" style="width: 230px; height: 182.51px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px; overflow: hidden; background-image: url(https://via.placeholder.com/230x183)"></div>
+  </div>
+  <div class="CardElement" style="width: 230px; height: 322.87px; left: 47px; top: 1270px; position: absolute; background: #1E293B; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.10); border-radius: 20px; overflow: hidden">
+    <div class="LoremIpsumDolor" style="left: 51.64px; top: 196.68px; position: absolute; text-align: center; color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+    <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 212.75px; height: 54.89px; left: 8.43px; top: 223.59px; position: absolute; text-align: center"><span style="color: #9CA3AF; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 24, 2022 - 5 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+    <img class="NotificationsOutline1" style="width: 230px; height: 182.51px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/230x183" />
+  </div>
+  <div class="Group6" style="width: 230px; height: 322.87px; left: 47px; top: 1987px; position: absolute">
+    <div class="CardElement" style="width: 230px; height: 322.87px; padding-top: 196.68px; padding-bottom: 44.39px; padding-left: 8.43px; padding-right: 8.82px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 2.15px; display: inline-flex">
+      <div class="LoremIpsumDolor" style="width: 130.33px; height: 24.75px; text-align: center; color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+      <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 212.75px; height: 54.89px; text-align: center"><span style="color: #9CA3AF; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">March 12, 2022 - 6 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+    </div>
+    <div class="StartupOutline21" style="width: 230px; height: 182.51px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px; overflow: hidden; background-image: url(https://via.placeholder.com/230x183)"></div>
+  </div>
+  <div class="Group7" style="width: 230px; height: 322.87px; left: 47px; top: 1626px; position: absolute">
+    <div class="CardElement" style="width: 230px; height: 322.87px; padding-top: 196.68px; padding-bottom: 44.39px; padding-left: 8.43px; padding-right: 8.82px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-end; align-items: center; gap: 2.15px; display: inline-flex">
+      <div class="LoremIpsumDolor" style="width: 130.33px; height: 24.75px; text-align: center; color: #F8FAFC; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+      <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElit" style="width: 212.75px; height: 54.89px; text-align: center"><span style="color: #9CA3AF; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">April 03, 2022 - 4 min read<br/><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim.</span></div>
+    </div>
+    <div class="DataProcessingOutline1" style="width: 230px; height: 182.51px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px; overflow: hidden; background-image: url(https://via.placeholder.com/230x183)"></div>
+  </div>
+  <div class="Frame" style="width: 25px; height: 25px; left: 14px; top: 9px; position: absolute">
+    <div class="Vector" style="width: 25px; height: 25px; left: 0px; top: 0px; position: absolute"></div>
+    <div class="Vector" style="width: 6.25px; height: 8.33px; left: 3.12px; top: 12.50px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    <div class="Vector" style="width: 6.25px; height: 12.50px; left: 9.38px; top: 8.33px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    <div class="Vector" style="width: 6.25px; height: 16.67px; left: 15.62px; top: 4.17px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    <div class="Vector" style="width: 14.58px; height: 0px; left: 4.17px; top: 20.83px; position: absolute; border: 2.75px #22D3EE solid"></div>
+  </div>
+</div>
+
+
+/* Blog Post Page */
+
+<div class="IphoneSe3" style="width: 320px; height: 1666px; position: relative; background: #0F172A">
+  <div class="Starter" style="left: 39px; top: 16px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Starter" style="color: #22D3EE; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz’s Blog</div>
+  </div>
+  <div class="NavNavMenu" style="left: 186px; top: 19px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Blog</div>
+    </div>
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Newsletter</div>
+    </div>
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Twitter</div>
+    </div>
+  </div>
+  <div class="LoremIpsumDolor" style="left: 75px; top: 87px; position: absolute; color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Lorem ipsum dolor </div>
+  <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitPhasellusMalesuadaNisiTellusNonImperdietNisiTemporAt" style="left: 26px; top: 1479px; position: absolute; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.</div>
+  <div class="SubscribeToMyNewsletters" style="left: 26px; top: 1436px; position: absolute"><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Subscribe to my </span><span style="color: #22D3EE; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Newsletters</span></div>
+  <div class="ButtonGetStarted" style="width: 280px; height: 37.55px; left: 20px; top: 1518px; position: absolute">
+    <div class="Rectangle4" style="width: 280px; height: 37.55px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 30px"></div>
+    <div class="EnterYourEmail" style="width: 190.40px; height: 16.80px; left: 18.67px; top: 12.13px; position: absolute; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Enter your Email</div>
+  </div>
+  <div class="ButtonGetStarted" style="width: 80px; height: 28.05px; left: 214px; top: 1523px; position: absolute">
+    <div class="Rectangle4" style="width: 80px; height: 28.05px; left: 0px; top: 0px; position: absolute; background: linear-gradient(270deg, #22D3EE 0%, #0EA5E9 100%); border-radius: 30px"></div>
+    <div class="Subscribe" style="width: 47px; height: 12px; left: 18px; top: 8px; position: absolute; color: #1E293B; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Subscribe</div>
+  </div>
+  <div class="Copyright2022ByIxzartSBlogBuiltWithByCreativedesignsguru" style="left: 34px; top: 1622px; position: absolute; color: #CBD5E1; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">© Copyright 2022 by Ixzart’s blog. Built with ♥ by CreativeDesignsGuru</div>
+  <div class="Line10" style="width: 320px; height: 0px; left: 0px; top: 1613px; position: absolute; border: 1px #CBD5E1 solid"></div>
+  <div class="Frame112" style="left: 132px; top: 1636px; position: absolute; justify-content: center; align-items: center; gap: 5px; display: inline-flex">
+    <div class="Vector" style="width: 10px; height: 10.54px; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 6.88px; height: 11.25px; left: 4.38px; top: 1.87px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    </div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 12.50px; height: 10.02px; left: 1.25px; top: 2.44px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    </div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 10px; height: 10px; left: 2.50px; top: 2.50px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 3.13px; left: 5px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 0.01px; left: 5px; top: 5px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 3.13px; left: 7.50px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 2.50px; height: 3.13px; left: 7.50px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+    </div>
+  </div>
+  <div class="ByIxartzOnApril2420225MinRead" style="width: 248.01px; height: 26.42px; left: 36.06px; top: 127px; position: absolute; text-align: center; color: #9CA3AF; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">By Ixartz on April 24, 2022 - 5 min read</div>
+  <img class="Frame114" style="width: 230px; height: 180px; left: 45px; top: 171px; position: absolute; border-radius: 20px" src="https://via.placeholder.com/230x180" />
+  <div class="LoremIpsumDolorLoremIpsumDolorSitAmetUtLaudantiumAdipisciEtAnimiDolorumEtNequeErrorAutMaximeNesciuntVelRecusandaeDucimusAtDoloremIsteIdMagniQuamIdCorruptiOfficiisAtMinusMinusEtQuidemRerum33NihilQuasAutConsequaturAsperioresEstSuntIlloEtSuntCommodiNonMagniQuisquamExPossimusDucimusIdFugaDictaEtObcaecatiBlanditiisSedQuidemSintEstMolestiaeEaQuamCorruptiNamItaqueQuaeEtRationeErrorVelPossimusSuntQuiCupiditateQuaeUtMagnamVeritatisVelNemoDoloresIdAspernaturDelenitiSedItaqueAutOdioPlaceatLoremIpsumDolorSitAmetEumAperiamFacilisAutDelenitiIpsaAtAspernaturNisiQuoCorporisAssumendaNonDoloresRerumAdVelitPorroRemNullaReprehenderitNonRepudiandaeHarumUtHarumLaudantiumEtVeritatisEaqueEtNesciuntVoluptasAdAliquamAliquamNonNemoVoluptasSitMolestiaeDoloribusAtNemoRepudiandaeEtReiciendisAutemCumCulpaOptioExIpsumEiusEtAccusantiumOmnisAtNequeQuaeratNonMagniQuisquamEumAperiamFacilisIdQuibusdamCorporisEtVoluptateMinusQuiInternosImpeditVelUndeLoremIpsumDolorIdQuibusdamCorporisEtVoluptateMinusAutVeniamQuasiAMagniInciduntInFugaDistinctioEtSuntAutemEtDoloreDolorQuoExplicaboQuidemAutEsseSuscipitEaInventoreQuiaNonNullaLaborumNonQuiaNemoEstPariaturQuiTemporibusMolestiaeAutCorporisDistinctioUtAliquamEvenietEtPerferendisVoluptateQuiRepellatQuiaEstArchitectoAssumendaCumIpsamArchitectoAutMollitiaPerferendisAutIllumUllamAbPraesentiumAnimi" style="width: 232px; height: 1028px; left: 45px; top: 389px; position: absolute; text-align: justify"><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 700; line-height: 20px; word-wrap: break-word">Lorem ipsum dolor <br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/></span><span style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">Lorem ipsum dolor sit amet. Ut laudantium adipisci et animi dolorum et neque error aut maxime nesciunt. Vel recusandae ducimus At dolorem iste id magni quam id corrupti officiis At minus minus et quidem rerum! 33 nihil quas aut consequatur asperiores est sunt illo et sunt commodi.<br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/></span><span style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">Non magni quisquam ex possimus ducimus id fuga dicta et obcaecati blanditiis sed quidem sint est molestiae ea quam corrupti. Nam itaque quae et ratione error vel possimus sunt! Qui cupiditate quae ut magnam veritatis vel nemo dolores id aspernatur deleniti sed itaque aut odio placeat.<br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 700; line-height: 20px; word-wrap: break-word">Lorem ipsum dolor</span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word"> </span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 700; line-height: 20px; word-wrap: break-word">sit amet <br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/></span><span style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">Eum aperiam facilis aut deleniti ipsa At aspernatur nisi quo corporis assumenda non dolores rerum ad velit porro rem nulla reprehenderit. Non repudiandae harum ut harum laudantium et veritatis eaque et nesciunt voluptas ad aliquam aliquam non nemo voluptas. Sit molestiae doloribus At nemo repudiandae et reiciendis autem cum culpa optio ex ipsum eius et accusantium omnis At neque quaerat.<br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/></span><span style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">Non magni quisquam<br/>Eum aperiam facilis<br/>Id quibusdam corporis et voluptate minus<br/>Qui internos impedit vel unde<br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/></span><span style="color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 700; line-height: 20px; word-wrap: break-word">Lorem ipsum dolor<br/></span><span style="color: #F8FAFC; font-size: 32px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/></span><span style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 400; line-height: 20px; word-wrap: break-word">Id quibusdam corporis et voluptate minus aut veniam quasi a magni incidunt in fuga distinctio et sunt autem et dolore dolor. Quo explicabo quidem aut esse suscipit ea inventore quia non nulla laborum non quia nemo est pariatur qui temporibus molestiae! Aut corporis distinctio ut aliquam eveniet et perferendis voluptate qui repellat quia. Est architecto assumenda cum ipsam architecto aut mollitia perferendis aut illum ullam ab praesentium animi.</span></div>
+  <div class="Frame115" style="width: 231px; height: 110px; left: 45px; top: 1297px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+    <div class="FurtherReadings" style="width: 1109px; text-align: justify; color: #F8FAFC; font-size: 12px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Further Readings</div>
+    <div class="LoremIpsumDolor" style="width: 1109px; text-align: justify; color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 400; text-decoration: underline; word-wrap: break-word">Lorem ipsum dolor </div>
+    <div class="LoremIpsumDolor" style="width: 1109px; text-align: justify; color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 400; text-decoration: underline; word-wrap: break-word">Lorem ipsum dolor </div>
+    <div class="LoremIpsumDolor" style="width: 1109px; text-align: justify; color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 400; text-decoration: underline; word-wrap: break-word">Lorem ipsum dolor </div>
+  </div>
+  <div class="Frame" style="width: 25px; height: 25px; left: 12px; top: 9px; position: absolute">
+    <div class="Vector" style="width: 25px; height: 25px; left: 0px; top: 0px; position: absolute"></div>
+    <div class="Vector" style="width: 6.25px; height: 8.33px; left: 3.12px; top: 12.50px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    <div class="Vector" style="width: 6.25px; height: 12.50px; left: 9.38px; top: 8.33px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    <div class="Vector" style="width: 6.25px; height: 16.67px; left: 15.62px; top: 4.17px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    <div class="Vector" style="width: 14.58px; height: 0px; left: 4.17px; top: 20.83px; position: absolute; border: 2.75px #22D3EE solid"></div>
+  </div>
+</div>
+
+
+/* Newsletter Page */
+
+
+
+<div class="IphoneSe4" style="width: 320px; height: 403px; position: relative; background: #0F172A">
+  <div class="Starter" style="left: 39px; top: 16px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Starter" style="color: #22D3EE; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz’s Blog</div>
+  </div>
+  <div class="NavNavMenu" style="left: 186px; top: 19px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Blog</div>
+    </div>
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Newsletter</div>
+    </div>
+    <div class="NavListItem" style="justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Twitter</div>
+    </div>
+  </div>
+  <div class="LoremIpsumDolorSitAmetConsecteturAdipiscingElitPhasellusMalesuadaNisiTellusNonImperdietNisiTemporAt" style="left: 24px; top: 130px; position: absolute; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.</div>
+  <div class="SubscribeToMyNewsletters" style="left: 31px; top: 78px; position: absolute"><span style="color: #F8FAFC; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Subscribe to my </span><span style="color: #22D3EE; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Newsletters</span></div>
+  <div class="ButtonGetStarted" style="width: 280px; height: 37.55px; left: 24px; top: 253px; position: absolute">
+    <div class="Rectangle4" style="width: 280px; height: 37.55px; left: 0px; top: 0px; position: absolute; background: #1E293B; border-radius: 30px"></div>
+    <div class="EnterYourEmail" style="width: 190.40px; height: 16.80px; left: 18.67px; top: 12.13px; position: absolute; color: #CBD5E1; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Enter your Email</div>
+  </div>
+  <div class="ButtonGetStarted" style="width: 80px; height: 28.05px; left: 218px; top: 258px; position: absolute">
+    <div class="Rectangle4" style="width: 80px; height: 28.05px; left: 0px; top: 0px; position: absolute; background: linear-gradient(270deg, #22D3EE 0%, #0EA5E9 100%); border-radius: 30px"></div>
+    <div class="Submit" style="width: 36px; height: 13.75px; left: 26px; top: 8px; position: absolute; color: #1E293B; font-size: 10px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Submit</div>
+  </div>
+  <div class="Copyright2022ByIxzartSBlogBuiltWithByCreativedesignsguru" style="left: 34px; top: 343px; position: absolute; color: #CBD5E1; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">© Copyright 2022 by Ixzart’s blog. Built with ♥ by CreativeDesignsGuru</div>
+  <div class="Line10" style="width: 320px; height: 0px; left: 0px; top: 334px; position: absolute; border: 1px #CBD5E1 solid"></div>
+  <div class="Frame112" style="left: 132px; top: 357px; position: absolute; justify-content: center; align-items: center; gap: 5px; display: inline-flex">
+    <div class="Vector" style="width: 10px; height: 10.54px; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 6.88px; height: 11.25px; left: 4.38px; top: 1.87px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    </div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 12.50px; height: 10.02px; left: 1.25px; top: 2.44px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+    </div>
+    <div class="Frame" style="width: 15px; height: 15px; position: relative">
+      <div class="Vector" style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 10px; height: 10px; left: 2.50px; top: 2.50px; position: absolute; background: #0F172A; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 3.13px; left: 5px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 0.01px; left: 5px; top: 5px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 0px; height: 3.13px; left: 7.50px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+      <div class="Vector" style="width: 2.50px; height: 3.13px; left: 7.50px; top: 6.87px; position: absolute; border: 1px #CBD5E1 solid"></div>
+    </div>
+  </div>
+  <div class="Frame" style="width: 25px; height: 25px; left: 14px; top: 9px; position: absolute">
+    <div class="Vector" style="width: 25px; height: 25px; left: 0px; top: 0px; position: absolute"></div>
+    <div class="Vector" style="width: 6.25px; height: 8.33px; left: 3.12px; top: 12.50px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    <div class="Vector" style="width: 6.25px; height: 12.50px; left: 9.38px; top: 8.33px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    <div class="Vector" style="width: 6.25px; height: 16.67px; left: 15.62px; top: 4.17px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    <div class="Vector" style="width: 14.58px; height: 0px; left: 4.17px; top: 20.83px; position: absolute; border: 2.75px #22D3EE solid"></div>
+  </div>
+</div>

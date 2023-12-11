@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="This is the contact page where you can contact me for job hiring.">
+<meta name="author" content="Faleh Alkhaldi">
+<title>Contact Page</title>
+<head>
+    <link rel="stylesheet" href="dark_theme.css">
+    <link rel="stylesheet" href="extractedDesignFile.css">
+    <title>Hire me</title>
+</head>
+<body>
+<header>
+    <h1>Hire me</h1>
+</header>
+<main>
+    <h2>Hello World!</h2>
+    <p>Welcome to the contact page If you're interested in hiring me, please feel free to reach out using the information provided below.
+        I look forward to hearing from you!</p>
+    <h2>My Contact Information</h2>
+    <ul>
+        <li>Email: <a href="mailto:fal7@gmail.com">fal7@gmail.com</a> </li>
+        <li>Phone number: <a href="tel:+96658960512">+96658960512</a></li>
+        <li>Address: Dhahran, Street:123</li>
+    </ul>
+</main>
+<section>
+    <h3>Provide me Your Information</h3>
+    <form action="confirmation.html" method="post">
+        <label for="name">Your company's name:</label><br>
+        <input type="text" id="name" name="name" placeholder="Your company's name" required>
+        <br><br>
+
+        <label for="email">Your email:</label><br>
+        <input type="email" id="email" name="email" placeholder="example@example.com" required>
+        <br><br>
+
+        <label for="phone">Your Phone Number:</label><br>
+        <input type="tel" id="phone" name="phone" placeholder="+9665123456" required>
+        <br><br>
+
+        <label for="service">The service you are interested in it:</label><br>
+        <input type="text" id="service" name="service" list="services" autocomplete="on" required>
+        <br><br>
+
+
+        <datalist id="services">
+            <option value="Web Developer">
+            <option value="Graphic Designer">
+            <option value="Cybersecurity">
+            <option value="Consultant">
+            <option value="Graphic Design">
+            <option value="Content Writing">
+            <option value="Digital Marketing">
+        </datalist>
+
+        <label for="salary">Your offered salary</label><br>
+        <input type="number" id="salary" name="salary" placeholder="for example: 99,999" required>
+        <br><br>
+
+        <label for="message">Give me more details about your company:</label><br>
+        <textarea id="message" name="message" rows="5" cols="50" placeholder="Write more details about your company"> required</textarea><br><br>
+        <input type="submit" value="Submit">
+        <br>
+    </form>
+</section>
+
+<footer>
+    <br>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home page</a> </li>
+            <li><a href="details.html">Details page</a> </li>
+        </ul>
+    </nav>
+    <p>&copy; 2023 Faleh Alkhaldi. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>

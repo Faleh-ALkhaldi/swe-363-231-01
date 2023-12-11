@@ -1,0 +1,155 @@
+/* The file after extracting the classes */
+
+.alteranativeTitle {
+    color: white;
+    font-size: 48px;
+    font-family: Roboto;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+h1 {
+    color: #22D3EE;
+    font-size: 48px;
+    font-family: Roboto;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+h2 {
+    color: #22D3EE;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+h3 {
+    color: #CBD5E1;
+    font-size: 26px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+h4 {
+    color: #F8FAFC;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.alteranativeText {
+    color: #CBD5E1;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    word-wrap: break-word
+}
+
+.sideNav {
+    width: 1386px;
+    height: 112px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-flex
+}
+
+.components1{
+    width: 11px;
+    height: 14.67px;
+    left: 5.50px;
+    top: 22px;
+    position: absolute;
+    border: 2.75px #22D3EE solid
+}
+
+.components2 {
+    width: 11px;
+    height: 22px;
+    left: 16.50px;
+    top: 14.67px;
+    position: absolute;
+    border: 2.75px #22D3EE solid
+}
+
+.components3 {
+    width: 11px;
+    height: 29.33px;
+    left: 27.50px;
+    top: 7.33px;
+    position: absolute;
+    border: 2.75px #22D3EE solid
+}
+
+.components4 {
+    width: 25.67px;
+    height: 0px;
+    left: 7.33px;
+    top: 36.67px;
+    position: absolute;
+    border: 2.75px #22D3EE solid
+ }
+
+.centeredSection {
+    justify-content: center;
+    align-items: center;
+    display: flex
+}
+
+.icon {
+    width: 44px;
+    height: 44px;
+    position: relative
+}
+
+.compactLayout1 {
+    padding: 10px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    display: flex
+}
+.compactLayout2 {
+    width: 635px;
+    height: 23px;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 800px;
+    display: inline-flex
+}
+
+.compactLayout3 {
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex
+}
+
+.compactLayout4 {
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    display: flex
+}
+
+.cards {
+    width: 789px;
+    height: 164px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    display: inline-flex
+}
+
+.items {
+    width: 44px;
+    height: 44px;
+    left: 0px;
+    top: 0px;
+    position: absolute
+}

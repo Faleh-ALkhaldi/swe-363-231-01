@@ -1,0 +1,41 @@
+/* The file without extracting the classes */
+
+<div class="HiThereIMIxartz"><span style="color: white; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Hi there, I’m </span><span style="color: #22D3EE; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz</span><span style="color: white; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">👋</span></div>
+
+<div class="NavNavHeader" style="width: 1386px; height: 112px; padding-left: 100px; padding-right: 100px; padding-top: 20px; padding-bottom: 20px; justify-content: space-between; align-items: center; display: inline-flex">
+  <div class="Starter" style="justify-content: center; align-items: center; display: flex">
+    <div class="Frame" style="width: 44px; height: 44px; position: relative">
+      <div class="Vector" style="width: 44px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+      <div class="Vector" style="width: 11px; height: 14.67px; left: 5.50px; top: 22px; position: absolute; border: 2.75px #22D3EE solid"></div>
+      <div class="Vector" style="width: 11px; height: 22px; left: 16.50px; top: 14.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+      <div class="Vector" style="width: 11px; height: 29.33px; left: 27.50px; top: 7.33px; position: absolute; border: 2.75px #22D3EE solid"></div>
+      <div class="Vector" style="width: 25.67px; height: 0px; left: 7.33px; top: 36.67px; position: absolute; border: 2.75px #22D3EE solid"></div>
+    </div>
+    <div class="Starter" style="color: #22D3EE; font-size: 30px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Ixartz’s Blog</div>
+  </div>
+  <div class="NavNavMenu" style="justify-content: center; align-items: center; gap: 40px; display: flex">
+    <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Blog</div>
+    </div>
+    <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Newsletter</div>
+    </div>
+    <div class="NavListItem" style="padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+      <div class="ListItem" style="color: #F8FAFC; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Twitter</div>
+    </div>
+  </div>
+</div>
+
+
+<div class="HeroSubtitle" style="width: 789px; height: 164px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+  <div class="TheEasiestWayToBuildAReactLandingPageInSecondsSaveYouTimeAndFocusOnYourProduct"><span style="color: #CBD5E1; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>Phasellus malesuada nisi tellus, non imperdiet nisi tempor at.<br/>Lorem ipsum dolor sit amet, </span><span style="color: #22D3EE; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word">consectetur</span><span style="color: #CBD5E1; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word"> adipiscing elit, <br/>sed do eiusmod tempor incididunt ut labore et </span><span style="color: #22D3EE; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word">dolore</span><span style="color: #CBD5E1; font-size: 26px; font-family: Roboto; font-weight: 500; word-wrap: break-word">.</span></div>
+</div>
+
+
+<div class="RecentProjects"><span style="color: #F8FAFC; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Recent </span><span style="color: #22D3EE; font-size: 48px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Projects</span></div>
+
+<div class="Frame86" style="width: 635px; height: 23px; justify-content: flex-start; align-items: center; gap: 800px; display: inline-flex">
+  <div class="Frame80" style="justify-content: flex-start; align-items: flex-start; display: flex">
+    <div class="Copyright2022ByIxartzSBlogBuiltWithByCreativedesignsguru" style="color: #CBD5E1; font-size: 20px; font-family: Roboto; font-weight: 500; word-wrap: break-word">© Copyright 2022 by Ixartz’s blog. Built with ♥ by CreativeDesignsGuru</div>
+  </div>
+</div>
