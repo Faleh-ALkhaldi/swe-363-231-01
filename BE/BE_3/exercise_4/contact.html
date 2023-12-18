@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+        <head>
+
+                <meta charset="utf-8"/>
+                <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+                <meta content="This is the contact page where you can contact me for job hiring." name="description"/>
+                <meta content="Faleh Alkhaldi" name="author"/>
+
+                <title>Contact Page</title>
+
+
+
+                <link href="dark_theme.css" rel="stylesheet"/>
+                <link href="extractedDesignFile.css" rel="stylesheet"/>
+
+
+        </head>
+
+        <body>
+                <header class="group1">
+
+                                <nav>
+
+                                        <ul>
+
+                                                <li><a href="contact-ar.html">العربية</a></li>
+
+                                                <br>
+
+                                                <p><strong>Go to:</strong></p>
+
+                                                <br>
+                                                <br>
+
+                                                <li><a href="index-ar.html">Home Page</a></li>
+                                                <li><a href="details-ar.html">Details Page</a></li>
+
+
+                                        </ul>
+
+                                </nav>
+
+
+                                <br>
+                                <br>
+
+                </header>
+
+                <main>
+                        <h2 class="group2">Submit Your Job Offer</h2>
+
+                        <section class="group1">
+
+                                <h2 style = "text-align: left;">Hello World!</h2>
+                                <p style = "text-align: left;">Welcome to the contact page If you're interested in hiring me,
+                                        please feel free to reach out using the information provided below.
+                                        I look forward to hearing from you!</p>
+
+                        </section>
+
+                        <section class="group1">
+
+                                <br>
+                                <br>
+
+                                <h3>Provide me Your Job Offer Information</h3>
+
+                                <form method="post" action="/contact/submit">
+
+                                        <label for="name">Your company's name:</label>
+
+                                        <br>
+
+                                        <input id="name" name="companyName" placeholder="Your company's name" required="" type="text"/>
+
+                                        <br><br>
+
+                                        <label for="email">Your email:</label>
+
+                                        <br>
+
+                                        <input id="email" name="email" placeholder="example@example.com" required="" type="email"/>
+
+                                        <br><br>
+
+                                        <label for="phone">Your Phone Number:</label>
+
+                                        <br>
+
+                                        <input id="phone" name="phoneNumber" placeholder="+9665123456" required="" type="tel"/>
+
+                                        <br><br>
+
+                                        <label for="service">The service you are interested in it:</label>
+
+                                        <br>
+
+                                        <input autocomplete="on" id="service" list="services" name="service" required="" type="text"/>
+
+                                        <br><br>
+
+                                        <datalist id="services">
+
+                                                <option value="Web Developer">
+                                                <option value="Graphic Designer">
+                                                <option value="Cybersecurity">
+                                                <option value="Consultant">
+                                                <option value="Graphic Design">
+                                                <option value="Content Writing">
+                                                <option value="Digital Marketing">
+
+                                                </option>
+                                                </option>
+                                                </option>
+                                                </option>
+                                                </option>
+                                                </option>
+                                                </option>
+
+                                        </datalist>
+
+                                        <label for="salary">Your offered salary</label>
+                                        <input id="salary" name="salary" placeholder="for example: 99,999" required="" type="number"/>
+
+                                        <br><br>
+
+                                        <label for="message">Give me more details about your company:</label>
+
+                                        <br>
+
+                                        <textarea cols="50" id="message" name="message" placeholder="Write more details about your company" rows="5"> required</textarea>
+
+                                        <br><br>
+
+                                        <input type="submit" value="Submit"/>
+
+                                        <br>
+
+                                </form>
+
+                        </section>
+                        <h2 class="group2">Contact Us</h2>
+                </main>
+                
+                <footer class="group1">
+
+                        <br>
+
+                        <address>
+
+                                <ul>
+
+                                        <li>Email: <a href="mailto:fal7@gmail.com">fal7@gmail.com</a></li>
+                                        <li>Phone number: <a href="tel:+96658960512">+96658960512</a></li>
+                                        <li>Address: Dhahran, Street:123</li>
+
+                                </ul>
+
+                        </address>
+
+                        <br>
+
+                        <p>© 2023 Faleh Alkhaldi. All Rights Reserved.</p>
+
+                </footer>
+
+        </body>
+
+</html>
