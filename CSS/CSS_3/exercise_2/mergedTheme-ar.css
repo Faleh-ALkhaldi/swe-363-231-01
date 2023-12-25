@@ -1,0 +1,486 @@
+/* Merged CSS from dark_theme.css (CSS1-exercise_01) and extractedDesignFile.css (CSS3-exercise_01),
+ Arabic Version */
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
+
+.alternativeTitle {
+    color: #F8FAFC;
+    font-family: Cairo, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    word-wrap: break-word;
+    text-align: right;
+}
+
+.cards {
+    align-items: flex-start;
+    display: flex;
+    height: 160px;
+    justify-content: flex-start;
+    width: 750px;
+}
+
+.centeredSection {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.compactLayout {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 800px;
+    height: 20px;
+    justify-content: flex-start;
+    width: 600px;
+}
+
+.down-ExtraLargeSpaced {
+    margin-bottom: 110px;
+}
+
+.down-LargeSpaced {
+    margin-bottom: 80px;
+}
+
+.down-SmallSpaced {
+    margin-bottom: 30px;
+}
+
+.down-Spaced {
+    margin-bottom: 50px;
+}
+
+.down-up-ExtraLargeSpaced {
+    margin-bottom: 110px;
+    margin-top: 110px;
+}
+
+.down-up-LargeSpaced {
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+
+.down-up-SmallSpaced {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.down-up-Spaced {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.group1 {
+    background-color: #030307;
+    color: #FFFFFF;
+    font-family: Cairo, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 30px;
+    text-align: center;
+}
+
+.group2 {
+    background-color: #333333;
+    color: #FFFFFF;
+    font-family: Cairo, sans-serif;
+    font-weight: 800;
+    padding: 30px;
+    text-align: center;
+}
+
+.icon {
+    height: 45px;
+    position: relative;
+    width: 45px;
+}
+
+.items {
+    align-items: flex-start;
+    display: flex;
+    height: 45px;
+    justify-content: flex-start;
+    position: absolute;
+    width: 45px;
+}
+
+.padding-ExtraLargeSpaced {
+    padding-bottom: 110px;
+    padding-top: 110px;
+}
+
+.padding-LargeSpaced {
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+.padding-SmallSpaced {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.padding-Spaced {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.sideNav {
+    align-items: center;
+    display: inline-flex;
+    height: 100px;
+    justify-content: space-between;
+    padding: 20px 100px;
+    width: 1200px;
+}
+
+.submit-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.up-ExtraLargeSpaced {
+    margin-top: 110px;
+}
+
+.up-LargeSpaced {
+    margin-top: 80px;
+}
+
+.up-SmallSpaced {
+    margin-top: 30px;
+}
+
+.up-Spaced {
+    margin-top: 50px;
+}
+
+a {
+    color: #2C89CB;
+}
+
+a:hover {
+    color: #BB86FC;
+}
+
+body {
+    margin: 1px;
+    font-family: Cairo, sans-serif;
+}
+
+button, input[type="submit"] {
+    background-color: #22D3EE;
+    border: none;
+    border-radius: 30px;
+    color: #333333;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #3D1E62B2;
+    color: #CBD5E1;
+    font-weight: bold;
+}
+
+div[id="serviceInputFields"], div[id="jobInputFields"]{
+    display: none;
+}
+
+footer, header {
+    margin: 0;
+    background-color: #030307;
+    color: #FFFFFF;
+    font-family: Cairo, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 30px;
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+    max-width: 500px;
+    justify-content: center;
+}
+
+h1 {
+    color: #3DD5F3;
+    font-family: Cairo, sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+h2 {
+    color: #3DD5F3;
+    font-family: Cairo, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+h3 {
+    color: #CBD5E1;
+    font-family: Cairo, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+h4 {
+    color: #F8FAFC;
+    font-family: Cairo, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+h5 {
+    color: #CBD5E1;
+    font-family: Cairo, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="number"],
+textarea {
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+    text-align: right;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+main {
+    background-color: #030307;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    font-family: Cairo, sans-serif;
+    font-weight: 450;
+    margin: 0;
+    min-height: 100vh;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+nav, address {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+option[name="contactType"], option[name="contactTypeAr"] {
+    border: #333333;
+    color: #333333;
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+option[name="contactType"]:hover, option[name="contactTypeAr"]:hover {
+    border: #CBD5E1;
+    color: #CBD5E1;
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section {
+    flex-grow: 1;
+    margin: 0;
+    padding: 30px;
+    background-color: #030307;
+    font-family: Cairo, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+select {
+    background-color: #22D3EE;
+    border: none;
+    border-radius: 15px;
+    color: #333333;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 3px 8px;
+}
+
+select:hover {
+    background-color: #3D1E62B2;
+    border: #CBD5E1;
+    border-radius: 30px;
+    color: #CBD5E1;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 15px 40px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 15px 0;
+    padding: 5px;
+}
+
+th {
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+th, td {
+    border: 1px solid #CCCCCC;
+    padding: 8px;
+    text-align: right;
+}
+
+tr:nth-child(even) {
+    background-color: #030307;
+    color: #FFFFFF;
+}
+tr:nth-child(odd) {
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+
+h2,p,label,section{
+    text-align: right;
+}
+
+h3[class="down-up-ExtraLargeSpaced"], label[class="down-SmallSpaced"]{
+    text-align: center;
+}
+
+nav span{
+    margin-top: 30px;
+}
+
+main h1{
+    background-color: #333333;
+    color: #FFFFFF;
+    font-family: Cairo, sans-serif;
+    font-weight: 800;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+main section p {
+    text-align: right;
+    margin-right: 0;
+    padding-right: 0;
+    margin-bottom: 30px;
+}
+
+main p {
+    margin-bottom: 90px;
+}
+
+input[type="submit"]{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+main section h3{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+main section div h3 {
+    margin-top: 80px;
+    text-align: center;
+}
+
+main section div form{
+    margin-top: 50px;
+    text-align: center;
+}
+
+input[name="companyName"],
+input[name="email"],
+input[name="phone"],
+input[name="jobFields"],
+input[name="pay"],
+input[name="name"],
+input[name="projectName"],
+input[name="requiredServices"],
+textarea[name="message"]{
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+    text-align: right;
+    margin-bottom: 30px;
+}
+
+label[for="companyName"],
+label[for="name"]{
+    margin-bottom: 30px;
+    margin-top: 110px;
+}
+
+label[for="emailJob"],
+label[for="phoneJob"],
+label[for="jobField"],
+label[for="salary"],
+label[for="companyInfo"],
+label[for="projectName"],
+label[for="emailSrv"],
+label[for="phoneSrv"],
+label[for="requiredService"],
+label[for="payment"],
+label[for="projectInfo"]{
+    margin-bottom: 30px;
+    margin-top: 80px;
+}
+
+select[id="contactType"]{
+    justify-content: center;
+    align-items: center;
+}
+
+h2[class="group2"] {
+    margin-top: 130px;
+}
+
+main h3 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+header, section, option, form, label,article,footer,input,select {
+    font-family: Cairo, sans-serif;
+}
+
+.noMarginTitle{
+    margin: 0;
+    background-color: #333333;
+    color: #FFFFFF;
+    font-family: Cairo, sans-serif;
+    font-weight: 800;
+    padding: 16px;
+    text-align: center;
+}
