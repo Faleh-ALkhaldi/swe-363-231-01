@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+        <meta charset="utf-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="هذه هي صفحة التواصل حيث يمكنك تقديم عروض التوظيف أو طلب خدمات مستقلة مني." name="description"/>
+        <meta content="فالح الخالدي" name="author"/>
+        <title>صفحة التواصل</title>
+        <link href="mergedTheme-ar.css" rel="stylesheet"/>
+        <script src="hamburgerSwitch.js"></script>
+        <script>
+                function toggleFields() {
+                        let selection = document.getElementById("contactType").value;
+                        let jobInputFields = document.getElementById("jobInputFields");
+                        let serviceInputFields = document.getElementById("serviceInputFields");
+
+                        if (selection === "JobOffer") {
+                                jobInputFields.style.display = "block";
+                                serviceInputFields.style.display = "none";
+                        } else if (selection === "ServiceRequirement") {
+                                jobInputFields.style.display = "none";
+                                serviceInputFields.style.display = "block";
+                        } else {
+                                jobInputFields.style.display = "none";
+                                serviceInputFields.style.display = "none";
+                        }
+                }
+        </script>
+</head>
+<body>
+<header>
+        <div class="navbar">
+                <div class="hamburger">&#9776;</div>
+                <nav>
+                        <a href="contact.html">English</a>
+                        <span><strong>اذهب إلى:</strong></span>
+                        <a href="index-ar.html">الصفحة الرئيسية</a>
+                        <a href="details-ar.html">صفحة التفاصيل</a>
+                </nav>
+        </div>
+</header>
+<main>
+        <h1 class="group2">مرحباً بكم في صفحة التواصل</h1>
+        <section>
+                <h2 class="pulse-effect">تواصل معي للعروض الوظيفية أو الخدمات المستقلة</h2>
+                <p class="down-ExtraLargeSpaced">إذا كنت مهتمًا بتقديم عرض وظيفي لي أو بطلب خدمات مستقلة مني،
+                        فلا تتردد في التواصل معي بإستخدام خانات المعلومات المقدمة أدناه. أتطلع إلى التواصل معك!
+                </p>
+        </section>
+        <section class="group1">
+                <h3>اختر الغرض من التواصل:</h3>
+                <label for="contactType"></label>
+                <select id="contactType" onchange="toggleFields()">
+                        <option name="contactType" selected="" value="SelectOption">اختر خيارًا</option>
+                        <option name="contactType" value="JobOffer">التقدم بعرض وظيفي</option>
+                        <option name="contactType" value="ServiceRequirement">طلب خدمة مستقلة</option>
+                </select>
+                <div id="jobInputFields">
+                        <h3>معلومات العرض الوظيفي</h3>
+                        <form action="confirmation-ar.html" method="post">
+                                <label for="companyName">اسم شركتك:</label>
+                                <input id="companyName" name="companyName" placeholder="اسم الشركة" required="" type="text"/>
+                                <label for="emailJob">بريدك الإلكتروني:</label>
+                                <input id="emailJob" name="email" placeholder="example@example.com" required="" type="email"/>
+                                <label for="phoneJob">رقم جوالك:</label>
+                                <input id="phoneJob" name="phone" placeholder="+٩٦٦٥١٢٣٤٥٦" required="" type="tel"/>
+                                <label for="jobFieldAr">مجال الوظيفة المعروضة:</label>
+                                <input autocomplete="on" id="jobFieldAr" list="jobFieldsAr" name="jobFieldsAr" required="" type="text"/>
+                                <datalist id="jobFieldsAr">
+                                        <option value="هندسة البرمجيات"></option>
+                                        <option value="تطوير الويب"></option>
+                                        <option value="الأمن السيبراني"></option>
+                                        <option value="الاستشارات"></option>
+                                        <option value="تصميم الجرافيك"></option>
+                                        <option value="كتابة المحتوى"></option>
+                                        <option value="التسويق الإلكتروني"></option>
+                                </datalist>
+                                <label for="salary">الراتب المعروض:</label>
+                                <input id="salary" name="pay" placeholder="على سبيل المثال: ٩٩,٩٩٩" required="" type="number"/>
+                                <label for="companyInfo">أعطني المزيد من التفاصيل حول شركتك أو الوظيفة المعروضة:</label>
+                                <textarea cols="50" id="companyInfo" name="message" placeholder="أعطني المزيد من التفاصيل حول شركتك أو العرض الوظيفي" required="" rows="5"></textarea>
+                                <input type="submit" value="إرسال"/>
+                        </form>
+                </div>
+                <div id="serviceInputFields">
+                        <h3>معلومات الخدمة المطلوبة</h3>
+                        <form action="confirmation-ar.html" method="post">
+                                <label for="name">اسمك:</label>
+                                <input id="name" name="name" placeholder="اسمك" required="" type="text"/>
+                                <label for="projectName">اسم مشروعك:</label>
+                                <input id="projectName" name="projectName" placeholder="اسم مشروعك" required="" type="text"/>
+                                <label for="emailSrv">بريدك الإلكتروني:</label>
+                                <input id="emailSrv" name="email" placeholder="example@example.com" required="" type="email"/>
+                                <label for="phoneSrv">رقم جوالك:</label>
+                                <input id="phoneSrv" name="phone" placeholder="+٩٦٦٥١٢٣٤٥٦" required="" type="tel"/>
+                                <label for="serviceAr">الخدمة المطلوبة:</label>
+                                <input autocomplete="on" id="serviceAr" list="servicesAr" name="servicesAr" required="" type="text"/>
+                                <datalist id="servicesAr">
+                                        <option value="هندسة البرمجيات"></option>
+                                        <option value="تطوير الويب"></option>
+                                        <option value="الأمن السيبراني"></option>
+                                        <option value="الاستشارات"></option>
+                                        <option value="تصميم الجرافيك"></option>
+                                        <option value="كتابة المحتوى"></option>
+                                        <option value="التسويق الإلكتروني"></option>
+                                </datalist>
+                                <label for="payment">المبلغ المعروض:</label>
+                                <input id="payment" name="pay" placeholder="على سبيل المثال: ٩٩,٩٩٩" required="" type="number"/>
+                                <label for="projectInfo">أعطني المزيد من التفاصيل حول مشروعك:</label>
+                                <textarea cols="50" id="projectInfo" name="message" placeholder="أعطني المزيد من التفاصيل حول مشروعك" required="" rows="5"></textarea>
+                                <input type="submit" value="إرسال"/>
+                        </form>
+                </div>
+        </section>
+        <h2 class="group2">تواصل معي</h2>
+</main>
+<footer>
+        <address>
+                <span>البريد الإلكتروني: <a href="mailto:fal7@gmail.com">fal7@gmail.com</a></span>
+                <span>رقم الجوال: <a href="tel:+96658960512">٩٦٦٥٨٩٦٠٥١٢+</a></span>
+                <span>العنوان: الظهران، شارع: ١٢٣</span>
+                <br/>
+                <span><em>© 2023 فالح الخالدي. جميع الحقوق محفوظة.</em></span>
+        </address>
+</footer>
+</body>
+</html>
