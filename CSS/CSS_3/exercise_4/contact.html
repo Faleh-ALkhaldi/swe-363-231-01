@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+        <meta charset="utf-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="This is the contact page where you can contact me for job offers or hiring me for individual services." name="description"/>
+        <meta content="Faleh Alkhaldi" name="author"/>
+        <title>Contact Page</title>
+        <link href="mergedTheme.css" rel="stylesheet"/>
+        <script src="hamburgerSwitch.js"></script>
+        <script>
+                function toggleFields() {
+                        let selection = document.getElementById("contactType").value;
+                        let jobInputFields = document.getElementById("jobInputFields");
+                        let serviceInputFields = document.getElementById("serviceInputFields");
+
+                        if (selection === "JobOffer") {
+                                jobInputFields.style.display = "block";
+                                serviceInputFields.style.display = "none";
+                        } else if (selection === "ServiceRequirement") {
+                                jobInputFields.style.display = "none";
+                                serviceInputFields.style.display = "block";
+                        } else {
+                                jobInputFields.style.display = "none";
+                                serviceInputFields.style.display = "none";
+                        }
+                }
+        </script>
+</head>
+<body>
+<div class="loader-wrapper">
+        <div class="loader"></div>
+</div>
+<header>
+        <div class="navbar">
+                <div class="hamburger">&#9776;</div>
+                <nav>
+                        <a href="contact-ar.html">العربية</a>
+                        <span><strong>Go to:</strong></span>
+                        <a href="index.html">Home Page</a>
+                        <a href="details.html">Details Page</a>
+                </nav>
+        </div>
+</header>
+<main>
+        <h1 class="group2">Welcome to My Contact Page</h1>
+        <section>
+                <h2 class="pulse-effect">Contact Me for Job Offers or Individual Services</h2>
+                <p class="down-ExtraLargeSpaced">If you're interested in offering a job or hiring me for individual services,
+                        please don't hesitate to reach out using the information fields provided below.
+                        I'm looking forward to hearing from you!</p>
+        </section>
+        <section class="group1">
+                <h3>Select Your Purpose:</h3>
+                <label for="contactType"></label>
+                <select id="contactType" onchange="toggleFields()">
+                        <option name="contactType" selected="" value="SelectOption">Select an Option</option>
+                        <option name="contactType" value="JobOffer">Job Offering</option>
+                        <option name="contactType" value="ServiceRequirement">Service Requirement</option>
+                </select>
+                <div id="jobInputFields">
+                        <h3>Job Offer Information</h3>
+                        <form action="confirmation.html" method="post">
+                                <label for="companyName">Your Company's Name:</label>
+                                <input id="companyName" name="companyName" placeholder="Your company's name" required="" type="text"/>
+                                <label for="emailJob">Your Email:</label>
+                                <input id="emailJob" name="email" placeholder="example@example.com" required="" type="email"/>
+                                <label for="phoneJob">Your Phone Number:</label>
+                                <input id="phoneJob" name="phone" placeholder="+9665123456" required="" type="tel"/>
+                                <label for="jobField">Offered Job's Field:</label>
+                                <input autocomplete="on" id="jobField" list="jobFields" name="jobFields" required="" type="text"/>
+                                <datalist id="jobFields">
+                                        <option value="Software Engineering"></option>
+                                        <option value="Web Developing"></option>
+                                        <option value="Cyber security"></option>
+                                        <option value="Consulting"></option>
+                                        <option value="Graphic Designing"></option>
+                                        <option value="Content Writing"></option>
+                                        <option value="Online Marketing"></option>
+                                </datalist>
+                                <label for="salary">Offered Salary:</label>
+                                <input id="salary" name="pay" placeholder="for example: 99,999" required="" type="number"/>
+                                <label for="companyInfo">Tell Me More about Your Company or Offered Job:</label>
+                                <textarea cols="50" id="companyInfo" name="message" placeholder="More details about your company or offered job" required="" rows="5"></textarea>
+                                <input type="submit" value="Submit"/>
+                        </form>
+                </div>
+                <div id="serviceInputFields">
+                        <h3>Service Requirement Information</h3>
+                        <form action="confirmation.html" method="post">
+                                <label for="name">Your Name:</label>
+                                <input id="name" name="name" placeholder="Your name" required="" type="text"/>
+                                <label for="projectName">Your Project's Name:</label>
+                                <input id="projectName" name="projectName" placeholder="Your project's name" required="" type="text"/>
+                                <label for="emailSrv">Your Email:</label>
+                                <input id="emailSrv" name="email" placeholder="example@example.com" required="" type="email"/>
+                                <label for="phoneSrv">Your Phone Number:</label>
+                                <input id="phoneSrv" name="phone" placeholder="+9665123456" required="" type="tel"/>
+                                <label for="requiredService">Service of Interest:</label>
+                                <input autocomplete="on" id="requiredService" list="requiredServices" name="requiredServices" required="" type="text"/>
+                                <datalist id="requiredServices">
+                                        <option value="Software Engineering"></option>
+                                        <option value="Web Developing"></option>
+                                        <option value="Cyber security"></option>
+                                        <option value="Consulting"></option>
+                                        <option value="Graphic Designing"></option>
+                                        <option value="Content Writing"></option>
+                                        <option value="Online Marketing"></option>
+                                </datalist>
+                                <label for="payment">Offered Payment:</label>
+                                <input id="payment" name="pay" placeholder="for example: 99,999" required="" type="number"/>
+                                <label for="projectInfo">Tell Me More about Your Project:</label>
+                                <textarea cols="50" id="projectInfo" name="message" placeholder="More details about your project" required="" rows="5"></textarea>
+                                <input type="submit" value="Submit"/>
+                        </form>
+                </div>
+        </section>
+        <h2 class="group2">Contact Me</h2>
+</main>
+<footer>
+        <address>
+                <span>Email: <a href="mailto:fal7@gmail.com">fal7@gmail.com</a></span>
+                <span>Phone number: <a href="tel:+96658960512">+96658960512</a></span>
+                <span> Address: Dhahran, Street:123</span>
+                <br/>
+                <span><em>© 2023 Faleh Alkhaldi. All Rights Reserved.</em></span>
+        </address>
+</footer>
+</body>
+</html>
